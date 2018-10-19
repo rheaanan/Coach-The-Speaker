@@ -1,0 +1,1658 @@
+ i'm john doe tag, not question
+ None, not question
+ problem might be, not question
+ objective function, not question
+ and finally its the old joke, not question
+ for fifteen dollars it won't get me there before five, not question
+ what is the model to me i think of it is an experimental device,question
+ be so by, not question
+ and which to leave behind, not question
+ so the objective function something you either minimizing or maximizing, not question
+ let's say that i'm allowed fifteen hundred calories of food, not question
+ call the knapsack problem, not question
+ alright pretty abstract let's talk about the specific optimization problem, not question
+ we'll talk about three kinds of models optimization models, not question
+ but also there's a lot more i would say, not question
+ familiarity with some simple algorithms, not question
+ i'll be a final exam based upon all of the above, not question
+ and so the burglar has to solve the optimization problem, not question
+ representing the set of available items, not question
+ the item is represented by a pair, not question
+ continue s are so called fractional knapsack problem says i can take pieces of it, not question
+ but has a knapsack that will only hold a fine art amount of stuff that he or she wishes to steal, not question
+ finance, not question
+ or am i only allows predict the future something that hasn't happened, not question
+ so essentially i'm gonna use a binary number to represent the set of items i choose to take, not question
+ involves, not question
+ None, not question
+ item three say it beeps three is zero, not question
+ None, not question
+ i'm at wanna find a root by car or plane or train, not question
+ of length and, not question
+ how do we use computation to understand the world in which we live, question
+ okay so i kind of use mathematics to describe the backpack problem, not question
+ really to fall the six from zero one problem sex, not question
+ and the weight of the item, not question
+ it's what we old people used to call a backpack, not question
+ and it was i was ten minutes into it for real life most of the class had no idea what a knapsack was, not question
+ let's look at an example, not question
+ i am trying to take, not question
+ as will see if, not question
+ more emphasis in using packages, not question
+ what i only have a hundred dollars to spend so that option is off the table, question
+ but it all has to fit in the knapsack, not question
+ fastest way to get from new york to boston is to take a plane, not question
+ usually it's call, not question
+ anyway, not question
+ let's assume the knapsack can accommodate items for the total weight, not question
+ None, not question
+ fraction of this food, not question
+ there's more stuff than you can carry and you have to choose which stuff to take, not question
+ odds are you'll be fine a way but that's the safest way to do it so, not question
+ None, not question
+ i'm not taking the item, not question
+ conceptual algorithmic material in six tripple zero two, not question
+ and you can, not question
+ once i take something that's fourteen hundred, not question
+ you want to maximize your value, not question
+ extra point zero one, not question
+ so essentially what's happening, not question
+ and then you move on to the next thing, not question
+ somebody walks up to a taxi driver in new york city, not question
+ the main topic of of course is what i think of its computational models, not question
+ alright welcome to six tripple zero two or if you and six hundred in the second half of six hundred, not question
+ in the future, not question
+ who breaks into a house and want to steal a bunch of stuff, not question
+ is it mi to open course ware at os ew dot am it dot edu, not question
+ and they used to look more like that than they look today, not question
+ and i can't add up to more than fifteen hundred calories, not question
+ and that's really the only way to learn to program is practice practice practice, not question
+ so the knapsack problem, not question
+ looking at his food, not question
+ and says i'm lost how do i get to carnegie hall the taxi driver turns to the person says practice practice practice, not question
+ but you can solve it with what's called a greedy algorithm will talk much more about this is we go forward, not question
+ yes which of these might be the most valuable items here, not question
+ can't avoid using optimization algorithm as you as you get through life, not question
+ where you take the best thing first as long as you can, not question
+ reading assignments in the textbooks, not question
+ i'll be a few additional bits of iphone today for example will talk about lambda abstractions, not question
+ so let's talk first about optimization models, not question
+ is moving out of the wet lab, not question
+ in words written words what i just said or like, not question
+ if three is one, not question
+ some, not question
+ i commute to work using ways which essentially is solving not very well i believe in optimization problem to minimize my time from home to here, not question
+ so once i take one thing at constrains possible solutions, not question
+ it minimizes the total travel time, not question
+ and essentially, not question
+ and as well see there's an asymmetry here, not question
+ and the continuous the zero one, not question
+ if you talk six triple zero one or you took the six tripple zero one advanced standing exam, not question
+ something like that, not question
+ it would be illustrated by something like this, not question
+ because i'll be more focus on the problem to be solved and on the actual programming the lecture content more abstract, not question
+ so we have, not question
+ to each element of the vector represents an item, not question
+ i should point out that there are two variants of it there's the zero one knapsack problem, not question
+ so maybe, not question
+ preferably python three point five, not question
+ is four to build the model that explains phenomena we see every day, not question
+ what's the work load their problem sex do all the programming problems much in the style of six tripple zero one, question
+ you'll be fine, not question
+ hopefully it will go a little bit smoother than in the last problem set in, not question
+ None, not question
+ we use these things all the time, not question
+ we've tried to choose different examples for lectures and from the textbooks for the most part, not question
+ about programming but, not question
+ point is technically knapsack problems are not physical knapsack split some conceptual idea, not question
+ or so for example from going from new york to boston, not question
+ or maybe i have to be in boston before five pm and while the bus would get me there before, not question
+ when you travel maybe you log into to various advisory programs that that that trying optimize things for you, not question
+ i knew pause for a second, not question
+ is, not question
+ and the gold, not question
+ the first time i talked about the knapsack problem i neglected to show a picture of an app sac, not question
+ i do want you to hold your programming skills, not question
+ None, not question
+ value of the item, not question
+ well you fill up your knapsack with gold, not question
+ i apologize for the short variable names but they are easy to fit on a slide finally will have a vector l, not question
+ so my check to function would be the number of minutes spent in transit getting from a to b, not question
+ it's interesting again there thing showing up on your screen not showing up on my screen, not question
+ my least favorite cuz i always wanna eat more than i'm supposed to be, not question
+ maybe twelve hundred calories and everything else is more than three hundred, not question
+ if you still in last place when you take as many reasons that you can fit in, not question
+ you haven't run out of space your mouth puts over until you run out of space, not question
+ i'll get the most for this when i fence it, not question
+ i take that whole bar or i take none of it, not question
+ and then we can build probably a slightly different model that might predict what will be like, not question
+ None, not question
+ they're all over the place today you really, not question
+ we can build models that sort of explain how the climate changed over the millennia, not question
+ anything to install the continuous problem, not question
+ None, not question
+ it's in the ready maximize to minimize, not question
+ and constraint it has to fit in my backpack, not question
+ lectures will be an ad in speaking you from mr clean a bit faster paced, not question
+ is this something we had an items to choose from, not question
+ as we'll talk about it traditional experimentation will is and will remain important, not question
+ that eliminates some solutions, not question
+ None, not question
+ and into the computer, not question
+ because once you make a decision it will affect the future decisions, not question
+ it will help mi to open course ware continue to offer high quality educational resources for free, not question
+ so here it is, not question
+ we then off and have to wear on top of that objective function, not question
+ so you can think of for example climate change model, not question
+ it maximizes the some, not question
+ and a set of constraints, not question
+ and the course is really less about programming and more about dipping your toe into the exotic world data science, not question
+ the sex with students reported in the path, not question
+ and these are my options, not question
+ i've already posted the first reading assignment, not question
+ while baking a constraint, not question
+ now it has to really be supplemented by computation, not question
+ we have to obey, not question
+ what setting in your head, question
+ tv the ran out of gold ran out of space, not question
+ gonna try and find a vector of the, not question
+ the typical models and simulation models, not question
+ by the constraints there on the amount of money i can spend, not question
+ familiarity with concepts of computational complexity you'll see even in today's lecture will be assuming that, not question
+ inevitably some comments about software engineering had a structure code, not question
+ and so maybe what i'm left with is, not question
+ recitation says, not question
+ so lot of, not question
+ a greedy algorithm as we'll see if not guarantee to give me the best answer alright let's look at a formal was asian of it, not question
+ i'm, not question
+ it's easy to self, not question
+ is gonna indicate whether or not an item was taken, not question
+ sometimes not, not question
+ they should provide you a very different take on the same material covering and lectures, not question
+ the programming assignments are going to be a bit easier, not question
+ maybe if i take my gold bar and she didn't gold dust, not question
+ i'm, not question
+ okay so those are the items we have and then another vector v, not question
+ continuous knapsack problem is really boring, not question
+ None, not question
+ so the zero one knapsack problem mean she will you take the object are you don't, not question
+ set of constraints, not question
+ they're harmless things like how my mouse works, not question
+ driving, not question
+ let me start with a few administrative things, not question
+ are mostly about you learning to be a programmer, not question
+ finger exercises small things if they're taking you more than fifteen minutes, not question
+ so just shows i can now very nicely represent what i've done by single vector, not question
+ increasingly i'm sure you all see that you were science majors and increasing reliance on computation, not question
+ a lot of that carries over no woman has to be a programmer in half a semester, not question
+ of no more than we, not question
+ so it, not question
+ and i should probably warn you if your hungry this is not gonna be a fun lecture so here's, not question
+ stealing the stuff with the most value, not question
+ let us know they really shouldn't, not question
+ and that's typically the way we deal with these optimization problems we start with some informal description and then we translate them into mathematical representation, not question
+ None, not question
+ it can help us to either understand something that has happened, not question
+ suppose you had over here a pile of gold and a pile of silver and a pile raisins, not question
+ i have to go about deciding, not question
+ so you get to see things in two thousand different ways, not question
+ oh hang on to your seats, not question
+ here is, not question
+ then can say well the whole thing won't fit in but i can fit in a pass part of it, not question
+ i can't handle these two things differently, not question
+ to make a donation or to view additional materials from hundreds of them it courses, not question
+ of zeros and ones, not question
+ zero one knapsack problem as much more complicated, not question
+ and the problem sets are designed to help cement back as well just give you programming experience, not question
+ in there generally designed to help you learn a single concept usually programming concept, not question
+ important to get this set up because we're gonna see now depends upon, not question
+ alright prerequisites experience writing object oriented programs in python on, not question
+ times by supply, not question
+ we have lots of jessie's of both and genders, not question
+ we're never gonna make that mistake again, not question
+ None, not question
+ it's a very powerful feeling that month contract contract but not the demonstration i want dora anybody thinking i'm cheating so that's just, not question
+ situations in which somebody doesn't, not question
+ what a little bit more confrontational but when it which was very familiar to but i want to first grade most cases it's the problem of the farmer the fox news in the rain, not question
+ approach to a problem, not question
+ None, not question
+ oh my mac and explain the best by filling up with example, not question
+ so here's how it works, not question
+ None, not question
+ and then i'll give me a little bit of the history of artificial intelligence and conclude with some of the covenants by which we run the course one of which is no laptops please, not question
+ so i can use to, not question
+ he ran into someone at a bar or rolls and ask you what you doing my t, not question
+ None, not question
+ how's the first of our powerful ideas for today, question
+ the sycamore something, not question
+ the rain, not question
+ and maybe a picture of a farmer, not question
+ that's pretty simple as turning pages when the time, not question
+ are done can you change your hairstyle want do sure you thane of car doors not taking the course this semester, not question
+ how many such situations are there, question
+ individuals can be on one side or the other, not question
+ but i wanna give you a second example, not question
+ next twenty four hours to, not question
+ what is it a country, question
+ i know where to class i hope it's not the last of the species, not question
+ is the wheel comes flying over the top my blunt like what's gonna happen one piece, question
+ why are there not sixteen, question
+ None, not question
+ and the allowed connections between them, not question
+ until i find something looks like the sleeve, not question
+ it's such a simple idea owner here to get in the subject but it need to adhere repertoire of problem solving methods techniques and ten procedures algorithms, not question
+ tune in for something a power over you start to talk about so i can save you doing in generate and test, not question
+ None, not question
+ making a model of the facilitate an understanding, not question
+ explain why we have these covenants at the end, not question
+ some possible solutions, not question
+ so we talking about this frequently from now on the rest this master the power of being able to name things, not question
+ why do some brown sugar just to be sure, not question
+ and here's the farmer, not question
+ that's the one where the other, not question
+ so much about you're going to accumulate in the subject is a sweet of representations that will help you to build programs are intelligent, not question
+ all for the suitable song at some point, not question
+ there's a scenario and here and glorious green representing our elves i infested reverses the river, not question
+ nice cover, not question
+ you're a bunch of interesting people it's always interesting to see what people named their children two decades ago and i finally were overwhelmed with families and their not too many peters pauls and mary's but enough to, not question
+ None, not question
+ alex is now never going to get the gyroscope wrong because he's got the right representation, not question
+ well i don't know either that on my trees or my colors or my multiplication tables so i have to go back to this book the audubon society field guide to north american trees and how to solve the problem, not question
+ that's powerful poison, not question
+ pm into a box the test them and then the other side comes mostly failures, not question
+ procedures over my call and just as well methods whenever you like these are the stuff of what artificial intelligence about methods algorithms representations like the one more example, not question
+ and if this were a philosophy class that stuff right there and just say, not question
+ is that will put their hand and arthritic posture color right can screw rule aptly named because people who use a ten to get the right answer about fifty percent of the time, not question
+ None, not question
+ initial situation now course there are other situations like this one for example, not question
+ that's exceeds and places us, not question
+ None, not question
+ so very position the farmer can be each of the other things can be on either side of the river, not question
+ reception and action, not question
+ actually figure out how many customers you get for the number of advertisements replacing the newspaper, not question
+ should be the same solution twice, not question
+ explain the past predict the future understand the subject and control the world, not question
+ None, not question
+ they should be informal, not question
+ not a representation for let's say that artificial intelligence is about representation, not question
+ None, not question
+ you better believe generator with for certain properties that make generators good for compilation not be redundant, not question
+ it's the graph of situations, not question
+ with the models using probabilities will models using physical and computational simulations, not question
+ what's the right representation for this problem, question
+ what i'm going to do is tell you about artificial intelligence today and with the subject is about, not question
+ at what time it is about that with the sun's about to will and now our model for models of thinking, not question
+ it's gonna go off now right next piece is going off that way to, not question
+ that's something we call artificial intelligence generated test, not question
+ because after all in the, not question
+ thinking perception and action and they should not be strange to, not question
+ please, not question
+ with me like all for, not question
+ others are, not question
+ enable, not question
+ fucks produce, not question
+ there's been about a ten percent turnover in the in the in the roster in the last twenty four hours i spent another ten percent turnover, not question
+ the tree leaf i picked off a tree, not question
+ i guarantee that what they will do, not question
+ symbolic labels gives power over concepts what are you i should also say this is a very simple idea generate, not question
+ to be two for a few says aggressively and without hesitation asked for sixteen possibility so we can actually draw out the entire graphic small enough, not question
+ None, not question
+ so what you have a neighbor something and start talking about it and the vocabulary gives you power so they call us the rumpelstiltskin principle, not question
+ we might grab picture looks like this, not question
+ advil programs so it's about it's about algorithms, not question
+ my constraints expose my representation that my mouth started thinking perception action so rooms of my call them just as well, not question
+ we know that those are not the right representation somehow we get the sense the right representation must of all something about the location of the participants in the scenario, not question
+ to add something it's a good very good so what you know the name you start to talk about it so you know the person i was pretty much like a wedding on the end of a rope, not question
+ with a tiny, not question
+ generate and test method consists of generating, not question
+ None, not question
+ goose is on that side the fox and the rain is on that side, not question
+ cuz algebraic notation exposes the constraints that make it possible, not question
+ so we're going to say it's not only about thinking it's also about perception, not question
+ i have never, not question
+ hi welcome to six three four, not question
+ there's another position over here with a farmer fox news and drain the fact is the only one, not question
+ and my beer pong about the situation pepsi high can, not question
+ and that's why we build representation that's why do algebra in high school, not question
+ i'm thinking perception and actually now my city well what's a representation a good can i do so like to take a brief moment to tell you about gyroscope now many of you have friends in chemical engineering what are the best ways to embarrass them is to say here's a bicycle will and if i spent an and blow hard on right here on the edge of the wheel is about turnover this way or this way, not question
+ some olives targeted thinking perception and action may no that's not quite enough because or have model, question
+ in the subject we're going to talk about problems involving thinking, not question
+ so when i do that usually very intuitive very natural sunny do all the time or any of the name we're gonna call generate and test, not question
+ and we know that the farmer and execute the movement from one situation to another, not question
+ None, not question
+ so now we're getting somewhere with the problem it's them it approach the former fox news and gray problem i'll stop you in your little kid, not question
+ all because the other how many i got for ten, not question
+ them it approaches to make models, not question
+ because we are electrical engineers not mechanical engineers we know about representation we're gonna do is we're think about a little bit when using duck tape to help us think about just one piece of the wheel sandwiches think about that piece the wheel, not question
+ so when i go into those places so having got the representation write something magical has happened we get our constraints exposed, not question
+ they're targeting that, not question
+ i'm going to start by talking about what artificial intelligence is and why we do it, not question
+ yes i do believe and i have a name for much have a name for something, not question
+ is it, not question
+ looks like there's, not question
+ this not of lost the glasses of course six classes in engineering school class of them it plus so many more than that and therefore we're going to talk about models, not question
+ so i might say well if we take this class will i get smarter than the answer is yes you will get smarter because my better model of your own thinking not just the subject matter of the subject the better models of your own thinking, not question
+ seven is full of powerful ideas me some every class, not question
+ whatever we do with the models in humanities class, not question
+ good thing she's chattering like mad at something we'll talk about later to motor stuff and how it helps thing, not question
+ with, not question
+ i should be able to absorb information such as this is a deciduous tree don't bother looking at the conference, not question
+ and the joy out the entire graph, not question
+ None, not question
+ we are young eng of both genders and we have a duncan was done can, not question
+ i know many of your sight years wanting money know if this is something you want to do so i'm going to tell you about what we're going to do this semester and what you'll know when you get out of here, not question
+ well it must have something to do with thinking so let's start up here a definition of artificial intelligence by saying that its about thinking whatever that is my definition artificial intelligence has to be rather broad, not question
+ the farmer, not question
+ hello walk you through this at one, not question
+ and it is full of, not question
+ None, not question
+ None, not question
+ there's a river and the ear about the can i carry the farmer and one of us for possessions, not question
+ it's the thing for unwinding now have a place to hang that knowledge, not question
+ because model making is whatever it is about, not question
+ if not support, not question
+ but every once in a while we get something, not question
+ i will still can't principle says that what you can name something you get power over you know if the whole thing is on the end of your shoe lace, not question
+ so artificial intelligence about constraint expose my ribs and patient support model stargazing well actually there's one more thing to not quite done, not question
+ i don't know if i can do this microphone to will see what happens to be a good year we got, not question
+ so what is it, question
+ and that's about action, not question
+ right knee jerk reaction to say we are how to build models as over doing it with bill model d differential equations, not question
+ stop by eighty two and he was offices and a c and i will be less often on campus but will be here quite often and definitely love to be more, not question
+ i should that products would generic that equity products, not question
+ or even sure there, not question
+ and it's always my story possession my personal story and, not question
+ this story is actually, not question
+ i open the tree trunk, not question
+ oh actually, not question
+ lot of these terms will newly introduced, not question
+ changes from private to public, not question
+ have, not question
+ and quite a few of them, not question
+ what's up how's the final mathematics but, question
+ recently doubled up the main instructors is we have newly added back lectures mostly focusing onionn, not question
+ okay yeah that's about right twenty percent and how many students are you in finance and business major, question
+ to prepare you some basic background knowledge about the financial markets, not question
+ oh, not question
+ and products will be listed as securities on the suggestions, not question
+ the point i'm trying to tell you is before you dive into any details of mathematics, not question
+ None, not question
+ is it, not question
+ experiencing this change, not question
+ practitioners from the industry trouble with family talking about examples how, not question
+ are you still answering my question he handed over the training manual for annual employees and you analysts, not question
+ and are members of the public happen, not question
+ the first day i set down, not question
+ is it okay yeah and so we got some good response last year so with the support of the math department we decide to expand, not question
+ so what has changed over the last twenty or thirty years, question
+ hi training mathematics and computer science, not question
+ and that's with different, not question
+ after the primary market, not question
+ that's the question you need to ask those people to know the specifics, question
+ today's lecture was a story, not question
+ any, not question
+ this is the field event in the last, not question
+ you're the one hundred to vega of zap unworkable kind of a, not question
+ and you know i certainly didn't expect i will be doing this when i was at my key but i did that in the last, not question
+ that's, not question
+ and to now of days if you walk on the trading floor in the country part of the traitors most of them have advanced degrees, not question
+ what are the forms, question
+ with that i will give you some background of all the financial markets, not question
+ most of the hurricane how many of you are engineering majors, not question
+ and the new this ways really just sent us emails and that which you'll find from the class website, not question
+ it from the outside probability the statistics and the sum so has the calculus to give you the foundation to understand the mass, not question
+ is the right or wrong you mathematics is it right or wrong you fix, not question
+ think about what is really the for what is really finances law is really about, not question
+ to calm the police agree to do a trade, not question
+ no re the sound of your quest just ask some question to raise your hand and give us a, not question
+ with the rest of the story off of a delta gamma say that which you one from, not question
+ again what's in common, question
+ the story actually was in the mid nineties, not question
+ to join options trading desk, not question
+ this is the second time we have in this class we had last year in small evolution, not question
+ and i'm obviously not gonna tell you the story of pilot life of pie it's not the financial story, not question
+ twenty years so, not question
+ visit me to open course ware not w that m it dot edu, not question
+ i myself personally, not question
+ loans, not question
+ to go to morgan stanley in new york, not question
+ it was probably one of the data point, not question
+ primary listing, not question
+ i will just left salomon brothers that was my first financial industry job, not question
+ local, not question
+ but hows concept established or, question
+ some of them typically join the firm's in the mail room, not question
+ bombs and the occurrences for the already given the forms so, not question
+ your future career you factor last year, not question
+ obviously we have offices here you can use it, not question
+ you know this is suppose we options trading the s so he look in the kennel puzzle, not question
+ weekly ad that's right okay so i turn around asking my desk phone as it was available, not question
+ participants products matos methodology everything are changing very rack, not question
+ and everybody was stock is one form of treating people one for my financial products, not question
+ so what we witnessed in the last thirty years was really transformation, not question
+ no one has money to lend out someone these borrow money, not question
+ kappa is actually a greek letter, not question
+ and, not question
+ it, not question
+ None, not question
+ just one, not question
+ new filter, not question
+ this industry, not question
+ that's why i to work right now and but my i forgot to mention that even that but i'm affiliated with suppose that nasty pond and the some school yet so so anyway thanks for that will be doing been more polling along the way may need to get the back of how you feel about us, not question
+ mostly thirty years, not question
+ start it and that's really the history part of this, not question
+ very quickly as i can found sum of others and i caught cap the last seventeen years, not question
+ None, not question
+ and so i turned around i ask my desk light, not question
+ on, not question
+ okay and how many of you a mass message, question
+ and a quiz in, not question
+ and became traitor late on that's typical career path, not question
+ it's not like, not question
+ new content and the we put the pretty reckless about the mass for that they have, not question
+ i won't tell your wife the truth story related, not question
+ when accompanied, not question
+ actually found a mans so actually and was stanley is not called vega is caught cap, not question
+ why did i tell you the story what points i try to make, question
+ of the tree of the treating profession coming from, not question
+ heater and to go in the bus is passes so i'm compatible to vegas to buy two of the photos so it what's unique about of a on this list, not question
+ okay, not question
+ very, not question
+ yeah and, not question
+ when you start it, not question
+ result really subject to exchange rules or the underlying treating agreement, not question
+ the further i look at on the same page that was actually a footnote which i copied them so the footnote about why is called a kappa at the, question
+ and once the stock is listed on the exchange, not question
+ will we talk about trading stocks of those of people trade baskets of socks the groups of socks and that's stock index or indices, not question
+ None, not question
+ and the different regions have different changes and markets as well and they typically specialize in local products local company stocks, not question
+ the security highest product or standardized whole you know what awaits you define that, not question
+ and what you really need to ask questions is, question
+ there's a changes right they become centralize the stock exchanges futures exchanges all over the world, not question
+ so that's the story so, not question
+ finance was a quantitative profession that's always, not question
+ and educated traders, not question
+ that's, not question
+ None, not question
+ None, not question
+ it's not really, not question
+ None, not question
+ for the people who haven't heard about before it's a measurement about a book of portfolio or position sensitivity quality so what is volatility, question
+ play was introduced, not question
+ in modern finance and help you decide if this is a few that you would be an, not question
+ how many of you actually know what vega, question
+ right so, not question
+ damn it open course ware continue to offer high quality educational resources for free, not question
+ i'm always family, not question
+ where is that make a report a case i can show you, question
+ and that the pricing model of options as you know, not question
+ so anyway today yes yeah i will we will have a mighty you know switch on listed on the website, not question
+ okay great cuz last year we had quite a few so i want to specifically tell you that you're very welcome to attend because he is so is open door and last month but we have a couple of students from harvard, not question
+ goes to this i appeal process, not question
+ when we finish the class we had a few students coming to work in the industry so what campbell is seventy so work else were, not question
+ it's very mind, not question
+ which again you the more you know rigorous terms, not question
+ oh captain, not question
+ does not have to be, not question
+ mute off it is really a measurement or indication of hall bottle power what's the standard deviation of a price can change over time okay just so even though right now i'm not gonna ask questions later so my that's a hot look in the set, not question
+ that's my first day and was stanley but, not question
+ eighty percent of case that is that's a how many credits since i get this over from, question
+ so anyway i was taught, not question
+ we just, not question
+ further solidify you math knowledge learned on, not question
+ last year of the policies gel and i i'm by the way i'm jake shaw and that's out of a city and we were the main instructors last year now we've doubled up to full pay instructors that's about peter cancel and that up the tube on the, not question
+ so, not question
+ i really just one form of treating and when you think of me the many other ways of treating aside from exchanges, not question
+ anyways so that was my first day side jobs and learn how to, not question
+ so that's that's really the goal and at the same time obviously you will, not question
+ okay i feel how many of you actually from other universes the, not question
+ that's one way of treating which is centralized, not question
+ i would say, not question
+ no financial products is, not question
+ okay we know so anyway i'm not gonna it just, not question
+ so we talk about markets we know the thirty days right people need to exchange goods you have something i don't have something you don't have so, not question
+ kappa is also called the big up by some uneducated traders salomon brothers wedding fried to join they have mistaken vega as a greek letter after gambling in vegas so, not question
+ and it becomes traded in the market with cut secondary trading, not question
+ mathematical will quantitative finance is that by the, not question
+ and mostly, not question
+ discuss to the total units of credit and how twice a week so we have every tuesday and thursday afternoon from two thirty to four as you know in this classroom, not question
+ home so that it is applied, not question
+ yes, not question
+ and, not question
+ so that the different types of hard to start give listed on the stock exchange goes to ipo initial public offering process, not question
+ currency issued by different countries, not question
+ any concept in finance in this class, not question
+ the website is www dot dot, not question
+ mostly, not question
+ i found something was missing, not question
+ is over the counter meeting, not question
+ the primary market, not question
+ so i will use today's for such as time to give you introduction really, not question
+ or the mascot is going to smoke with finance part is been confusing, not question
+ define verify because this is a feel the transformation about, not question
+ obviously the last ten fifteen years now we have the cs you actually electronic platforms trait over you know you enlarge a volume of those traits, not question
+ the black shows in the seventies some of the run what made gumbo earlier but, not question
+ to make a donation or view additional materials from hundred of them it courses, not question
+ and curses money itself was he traded, not question
+ will be used in those examples in the lecture hall by the practitioners from the industry and its purpose of this course is ready to give us amply manual to see, not question
+ okay if you had your that and so hopefully this will give you enough information to decide this is a few of you like the sue, not question
+ some terminology is will be use which you may not have heard before, not question
+ glasses here for the seventy on cam doesn't mean i'm gonna be the instructor on mondays at the advisor and this is worth three three cartons, not question
+ so this is actually on hopefully get you use to playing against other people who are playing correctly which is not something you can calmly learn just from, not question
+ i think the way that we can tackle this thing it is kind of a way i recommend that you learn anything complicated so, not question
+ very similar to each other but then the tournament that really matter will be completely different at least relatively different so that's under that that's they'll make you get a feel for what these guys have to go through um so let's talk about her rose, not question
+ let's go into the game plastic more so posers crib that's probably frost which is really cool so poker stars is is generally considered like the most reputable on line poker site that's why we use them so they have two different types of games of everyone employment games now will, not question
+ definitely not okay for real money how ever their play money seen is is pretty resilient and that's or taking advantage of your the process play money scene is broken down to two different things they have like public intrigued just go and play for like play chips in against anyone in the world which is cool and you can do that when i recommend you give it a shot just to get used to the software i'm in addition you can do home searches what were generally gonna be doing that so they call the like private leaves, not question
+ None, not question
+ None, not question
+ from like playing around with your friends on in addition, not question
+ alright everyone so welcome to fifty dot es fifty people there and analytics services gonna be monday wednesday friday from three thirty to five i just got a room for review session on tuesday thursday for anyone who needs to catch up a little bit, not question
+ visit mi to open course ware at os ew dot am it dot edu, not question
+ and then for their second tournament there giving us all of those things plus an ipad air and an i pad mini but we're not done yet because this class is focused on playing live we're going to end the class with alive tournament sponsored by october on the thirty first which is the day after the last day of the class so after leagues over after you guys are good at poker but you'll have an opportunity to play each other in alive tournament, not question
+ listen i pad plastic end of us to go pro i want this to reflect, not question
+ we were gonna break this down to three different sections like fundamental concepts, not question
+ which is good means given by that poker chip for the pain, not question
+ None, not question
+ if you're in the us you can do real money like it used to be some was very gray area, not question
+ practice which are actually implementing those concepts when like when you have ten seconds to make a decision and then more advance stuff okay so where it was going to concepts i'm gonna call this of the basic framework for decision making it's like being on explorer we like you wanna get to level when you sit down at a table every pro in the room doesn't turn ago i wanna set back as table you wanna be slightly winning player way before you want to become like a huge wedding player in order to let you know the type of thing that we're learning i'm gonna label the sides with this indicate that this is like a basic concept learn this thing before you move are the advance stuff is once you once you learned how to do things which is like how to do things is pretty is pretty broad we're gonna learn like minor adjustments that we can do to get on quite a bit of extra money but how to grind out that i need that additional like half big blind in our out of out of our opponents, question
+ and this pros we'll just grind those out though get use to the structure and that's real world, not question
+ it became and then there was one progress eight which turned out to be like legitimately like a ponzi scheme and as a result now procure in in the us is it much more black and white, not question
+ i know it so let's, not question
+ no like no live pro to get as many hands are analyzer play in the way that you can do online dishes it's not a comparative so this is giving even if your of your whole intention is to only play on live the entire reciever life doing this type of analytics would give you a chance to learn at a much faster rate and learn things that you and never see live so every week we're going to have a major tournament which is basically gonna be the same structure maybe a lol bit slower than the ones we do delhi except they're gonna have real prizes so of tuna is giving us for their first tournament, not question
+ it open course ware continue to offer high quality educational resources for free, not question
+ and then a lot of discussing the focus on practice which is how to actually implement late how to implement these concepts on a on a daily basis and are actually playing so especially live like we are not gonna have all the information we're not gonna have a calculators and we're not gonna have that much time to make a decision so how does like applied israel time making rules of thumb figure out what you can't just ignore and what you have to definitely do and then some the psychology stuff for later actually performing live is gonna be one contract is, question
+ None, not question
+ there are gonna be doing proof of announces we're gonna be doing a lot of this because this is really like is this is where the value at is gonna be is getting this right, not question
+ like an on-line multi table tournament firewood how it normally works is during the week and basically every single day there's a uniform out of tournament so just run every single day like at the top of the hour, not question
+ okay so let's say about the lead and honestly i think they this league is going to be really cool usually the the the evolution of a player is like they're terrible at poker and then they start becoming good at playing against bad people and then when they actually start playing for real they got crushed again because there used to play against other bad people, not question
+ what the what the type of things, question
+ so any any real deviations from warren armando normally do in addition to medicare and medicaid was always fine like anything not related to the hand to hand decision-making process like table selection or like bankroll management or but deciding whether or not to play it that suffers really fondness can be indicated by this ac okay so i will label the side for anything that's considered advanced and stuff fish only really do when you get the concepts down, not question
+ okay so that's in with pricey so the schedule is we're gonna go through what what i'm calling basic strategy which are like the the basic axioms that were gonna be using to in order to analyze the decision making process in poker, not question
+ the game play aspect so this is why did i think this is i think this is really cool so producers gave us our own private lead for only and ninety people in this course and my goal here it is two separate people who are like fairly new for people who are very competitive because i don't want i don't want someone not to pass of course because they happen to be not a great poker check train this thing called beginner's the and these are gonna be daily turbo churros means like there fast if tournament is and to get the game play credit you can cash you can make money and one of them or you can play in ten of them so those who are struggling can get this game play credit by playing ten torrance which is about like a ten hour commitment, not question
+ so the private in the private leagues in like a home game to have the showcase and you might notice as soon as you log in that the mi to the park at their analytics rd at the top that's such as for us that's for everyone anyone in the world who logs into poker stars a look at home games has it and my tv at the top which i think is really cool so access says i'll send a more specific instructions later i give you guys the just like the passcode what you need but actually get there will you need to do is you gonna poker stars you go to like this button which is a little house there are taxes home games and then you wanna join a game and what you do is you put the club it which is five hundred seventy three two you put the invitation code which are all gonna having stellar and then you put your real name preferably the one that is in the course because i cash after prove everyone that joins of the and i can't do justice on someone screaming and i guess after agree to some sort times and conditions, not question
+ like the this is why the twenty but the live tournament scene is dominated by on-line pros it's because, not question
+ None, not question
+ it's headphones and apple tv, not question
+ where the kind of like grinder to and then on the weekends that's when you get a lot of like a lot of the square money a lot of the like the newer guys who only play poker on the weekend and those are more gimmicky like idiosyncratic tournament but also the highest value so that's why i'm producing the the tournament structure like this for the book of your tournament will be, not question
+ let's talk about what we're number to table here so i set discourses primarily gonna be from my perspective and that the decisions about what time, not question
+ to make a donation or to view additional materials from hundreds of em it courses, not question
+ you can there playing these on line the eggs you can collect stats that you can never get from playing live and i think this is, not question
+ oh speakers and a lot of gift cards, not question
+ turn those let you focus on prefect decisions which on are the area where i think there's a most to learn among people who are new at poker, not question 
+glasses here for the seventy on cam doesn't mean i'm gonna be the instructor on mondays at the advisor and this is worth three three cartons, not question
+ so this is actually on hopefully get you use to playing against other people who are playing correctly which is not something you can calmly learn just from, not question
+ i think the way that we can tackle this thing it is kind of a way i recommend that you learn anything complicated so, not question
+ very similar to each other but then the tournament that really matter will be completely different at least relatively different so that's under that that's they'll make you get a feel for what these guys have to go through um so let's talk about her rose, not question
+ let's go into the game plastic more so posers crib that's probably frost which is really cool so poker stars is is generally considered like the most reputable on line poker site that's why we use them so they have two different types of games of everyone employment games now will, not question
+ definitely not okay for real money how ever their play money seen is is pretty resilient and that's or taking advantage of your the process play money scene is broken down to two different things they have like public intrigued just go and play for like play chips in against anyone in the world which is cool and you can do that when i recommend you give it a shot just to get used to the software i'm in addition you can do home searches what were generally gonna be doing that so they call the like private leaves, not question
+ None, not question
+ None, not question
+ from like playing around with your friends on in addition, not question
+ alright everyone so welcome to fifty dot es fifty people there and analytics services gonna be monday wednesday friday from three thirty to five i just got a room for review session on tuesday thursday for anyone who needs to catch up a little bit, not question
+ visit mi to open course ware at os ew dot am it dot edu, not question
+ and then for their second tournament there giving us all of those things plus an ipad air and an i pad mini but we're not done yet because this class is focused on playing live we're going to end the class with alive tournament sponsored by october on the thirty first which is the day after the last day of the class so after leagues over after you guys are good at poker but you'll have an opportunity to play each other in alive tournament, not question
+ listen i pad plastic end of us to go pro i want this to reflect, not question
+ we were gonna break this down to three different sections like fundamental concepts, not question
+ which is good means given by that poker chip for the pain, not question
+ None, not question
+ if you're in the us you can do real money like it used to be some was very gray area, not question
+ practice which are actually implementing those concepts when like when you have ten seconds to make a decision and then more advance stuff okay so where it was going to concepts i'm gonna call this of the basic framework for decision making it's like being on explorer we like you wanna get to level when you sit down at a table every pro in the room doesn't turn ago i wanna set back as table you wanna be slightly winning player way before you want to become like a huge wedding player in order to let you know the type of thing that we're learning i'm gonna label the sides with this indicate that this is like a basic concept learn this thing before you move are the advance stuff is once you once you learned how to do things which is like how to do things is pretty is pretty broad we're gonna learn like minor adjustments that we can do to get on quite a bit of extra money but how to grind out that i need that additional like half big blind in our out of out of our opponents, question
+ and this pros we'll just grind those out though get use to the structure and that's real world, not question
+ it became and then there was one progress eight which turned out to be like legitimately like a ponzi scheme and as a result now procure in in the us is it much more black and white, not question
+ i know it so let's, not question
+ no like no live pro to get as many hands are analyzer play in the way that you can do online dishes it's not a comparative so this is giving even if your of your whole intention is to only play on live the entire reciever life doing this type of analytics would give you a chance to learn at a much faster rate and learn things that you and never see live so every week we're going to have a major tournament which is basically gonna be the same structure maybe a lol bit slower than the ones we do delhi except they're gonna have real prizes so of tuna is giving us for their first tournament, not question
+ it open course ware continue to offer high quality educational resources for free, not question
+ and then a lot of discussing the focus on practice which is how to actually implement late how to implement these concepts on a on a daily basis and are actually playing so especially live like we are not gonna have all the information we're not gonna have a calculators and we're not gonna have that much time to make a decision so how does like applied israel time making rules of thumb figure out what you can't just ignore and what you have to definitely do and then some the psychology stuff for later actually performing live is gonna be one contract is, question
+ None, not question
+ there are gonna be doing proof of announces we're gonna be doing a lot of this because this is really like is this is where the value at is gonna be is getting this right, not question
+ like an on-line multi table tournament firewood how it normally works is during the week and basically every single day there's a uniform out of tournament so just run every single day like at the top of the hour, not question
+ okay so let's say about the lead and honestly i think they this league is going to be really cool usually the the the evolution of a player is like they're terrible at poker and then they start becoming good at playing against bad people and then when they actually start playing for real they got crushed again because there used to play against other bad people, not question
+ what the what the type of things, question
+ so any any real deviations from warren armando normally do in addition to medicare and medicaid was always fine like anything not related to the hand to hand decision-making process like table selection or like bankroll management or but deciding whether or not to play it that suffers really fondness can be indicated by this ac okay so i will label the side for anything that's considered advanced and stuff fish only really do when you get the concepts down, not question
+ okay so that's in with pricey so the schedule is we're gonna go through what what i'm calling basic strategy which are like the the basic axioms that were gonna be using to in order to analyze the decision making process in poker, not question
+ the game play aspect so this is why did i think this is i think this is really cool so producers gave us our own private lead for only and ninety people in this course and my goal here it is two separate people who are like fairly new for people who are very competitive because i don't want i don't want someone not to pass of course because they happen to be not a great poker check train this thing called beginner's the and these are gonna be daily turbo churros means like there fast if tournament is and to get the game play credit you can cash you can make money and one of them or you can play in ten of them so those who are struggling can get this game play credit by playing ten torrance which is about like a ten hour commitment, not question
+ so the private in the private leagues in like a home game to have the showcase and you might notice as soon as you log in that the mi to the park at their analytics rd at the top that's such as for us that's for everyone anyone in the world who logs into poker stars a look at home games has it and my tv at the top which i think is really cool so access says i'll send a more specific instructions later i give you guys the just like the passcode what you need but actually get there will you need to do is you gonna poker stars you go to like this button which is a little house there are taxes home games and then you wanna join a game and what you do is you put the club it which is five hundred seventy three two you put the invitation code which are all gonna having stellar and then you put your real name preferably the one that is in the course because i cash after prove everyone that joins of the and i can't do justice on someone screaming and i guess after agree to some sort times and conditions, not question
+ like the this is why the twenty but the live tournament scene is dominated by on-line pros it's because, not question
+ None, not question
+ it's headphones and apple tv, not question
+ where the kind of like grinder to and then on the weekends that's when you get a lot of like a lot of the square money a lot of the like the newer guys who only play poker on the weekend and those are more gimmicky like idiosyncratic tournament but also the highest value so that's why i'm producing the the tournament structure like this for the book of your tournament will be, not question
+ let's talk about what we're number to table here so i set discourses primarily gonna be from my perspective and that the decisions about what time, not question
+ to make a donation or to view additional materials from hundreds of em it courses, not question
+ you can there playing these on line the eggs you can collect stats that you can never get from playing live and i think this is, not question
+ oh speakers and a lot of gift cards, not question
+ turn those let you focus on prefect decisions which on are the area where i think there's a most to learn among people who are new at poker, not question
+ is there offerings and statistics on campus so i wanna make sure that you've chosen the right now so and i also understand that for some of you it's a matter of scheduling, not question
+ no extend to brodeur and more sophisticated methods selectors are here from eleven twelve thirty is on tuesday and thursday the german will also be and and can call victor will also be holding mandatory recitation so please doing stellar and take your recitation it's either three to four or four to five on wednesdays and it's gonna be mostly focusing problem solving their mandatory in the sense that while we we have were allowed to do this but i don't know they're not gonna cover entirely new material but they might take cover some you know techniques that might save you some time when it comes to the exam so you know you might get by so you know attendance is not gonna be taken or anything like this but i highly recommend that you go because well they're minute or so you can not really complain that something was taught only in recitation so please register on stellar for which of the two recitation you would like to be in theirs they're capped at forty so first come first serve, not question
+ another question, not question
+ they're not, not question
+ i need to actually throw the disclaimer i am i tend to speak too fast i'm aware of that you know someone in the back just do that that when you have no idea what i'm saying hopefully will repeat myself many times so if you average over time you'll see it's that has the double tell you that you will get the right message that i was actually trying to step to send, not question
+ is a drug effective that's not in mathematical terms i have to find out which measure i want to have to call effective i want to maybe it's over seventy years times maybe so we're so there's a lot of things that you actually need and i'm not really gonna tell you how to go from the application to the point you need to be but it will certainly describe to you what point at which point you need to be at of you want to start applying to sicko methodology then once you understand what kind of question you want to answer the owner yes no answer to a one a number two on their bars tho no make prediction five years in the future who have site information and why not have site information all this things based on that hopefully you will have a catalog of the typical methods that you're gonna be able to use, not question
+ None, not question
+ so homework will be do weekly there's a total of eleven problems at several like this is a lot hopefully we'll to damn light, not question
+ okay so the course are currently sitting in as eighteen six fifty and its cool fundamentals of statistics and tell last bring it was so cold statistics for applications and it turned out that really based on the content from the mental statistics was a more appropriate title so i'll tell you a little bit about what we're gonna cover in class with this class is about what it's not about there's several light i really there's, not question
+ visit mi to open course ware at c w dot am it dot edu, not question
+ this will be close books and clothes notes so the purpose is for you to get, not question
+ two, not question
+ okay so the pricks here and who has looked at the first problems that already, question
+ if you're in the news and will see a lot of the things i mentioned machine learning it's built a lot of statistics statistics is now, not question
+ it's not that, not question
+ None, not question
+ okay so those hands that are rate realize that there is a trooper record that the probability for this past, not question
+ oh that, not question
+ i want to say, not question
+ None, not question
+ so i've had over the years can it might be missing it but i've had students who actually write a doc file and think that converting it to pdf consistent racing the extension to see and replacing it by pdf this is not how it works and it's so i'm sure you will figure it out so please try to keep them letter size this is not a strict requirements but i don't want to see them now the there you are allowed to have to leave home works and by leaving in twenty four hours later, not question
+ your support will help mi to open course ware continue to offer high quality educational resources for free, not question
+ alright so why should you study statistics well, question
+ None, not question
+ the slides are so that we can discuss the the one that from the solas is the one that counts and i think they are also posted on the calendar on stellar as well, not question
+ so the best of the two will be kept us, not question
+ lightest many of you actually immediate their attention in class the goal here will be to take you so statistics somewhat evolved into machine learning in recent years and my goal is to teach you there some machine learning has a strong are rhythmic components on the sum of gifted in machine learning class that displays mostly the algorithmic component there's also statistical component right machine learns from data and hopefully so this to the civil track and there some statistical learning which arm statistical machine learning class is that you can take your so they're offered at the crack their level i believe but once you take those glasses i wanted to be ready to be able to take this class is having this to physical fundamentals to understand what you're doing and then you're gonna be able to, not question
+ None, not question
+ you can also plate that speed point seven five in case and of speaking too fast but i think of management alright so just last morning, not question
+ yeah i'm saying that's figure that out the syllabus is the three one, not question
+ i'm, not question
+ and and and and you know apply in the wall and also you know, not question
+ well you're always welcome to tighten them and practice yearly tax or were typing i also understand this can be a bit of a strain so just you know write them down on a piece of paper use your iphone and take a picture of it dropbox and nice new so try to find something that puts a lot of contrast of you especially if you use pencil because there and check if the rebel it readable and this is your responsibility to have a readable file in particular, not question
+ not no statistical methods perfect some of people have agreed upon over the years and people understand that this is the standard but you i want you to be able to understand what the mutations are when you make conclusions based on the data that those conclusions might be erroneous for example alright more practically michael here is to have you ready to quit thinking for example machine learning class here, not question
+ okay look questions asked to submit them this will be counted you have to send an email warrants or anything like this, not question
+ the best of the two not the best to we will add them multiply the number by nine and it will be your now so i'm trying to be nice this is the limit switch for i can do all right so this will be the goal is for you to learn things into the familiar with them in the in the final you will be allowed to have your notes with you but i want you to midterms also we for you to develop some mechanism so that you don't actually weighs to much time on things that you should be able to do it without thinking too much you will be allowed to cheat sheets because you know you can always forget something and you will there will be to say the letter shit and you can mix you can practice yourself is writing a small as you want and you can put whatever you want on this huge fight the final will be decided by the register is gonna be three hours is gonna count forty percent you can bring books but you can bring your nose is, not question
+ to make a donation or to view additional materials from hundreds of mi to courses, not question
+ i just want you to you know not rest to much heat the ten best will be kept in this will comfortable of thirty percent of the final grade there do monday's at eight pm on stellar and so this is a new thing i'm not we're not gonna use the boxes outside of the math department were gonna use on the pdf file so, not question
+ young that it's gonna be given that your have once like for one zero grade in stock for too late homeworks you're gonna have to come up with a very good explanation why you need actually more extensions than that if you ever do in particular have to keep track about why you've use your three options for the two midterms one is the toolbar third and one is november seven their both gonna be in class for duration of the lecture when i see the last for an hour and twenty minutes it does not mean that if you arrive ten minutes before the end of lecture you still get an hour and twenty minutes it will and at the lecture at the end of like two times for this is well no pressure only the best of the two will be cats and this will the screen will come for thirty percent of the great, not question
+ yeah there's a one that's missing on both of them is in there, not question
+ one mechanics, not question
+ you know person sitting next you whatever things happen so we will drop their lowest problems at school or without any questions right with the into this mess will just drop your lowest score and if you turn them all in great whatever look for was fine if you miss one then gone on the other hand if you know like next week i will be attacked by rabid squirrel it's gonna be horrible i don't have to worry about my problems that, not question
+ and other questions, not question
+ one which stands out like a electrons and one which ends at white light comes, not question
+ others, not question
+ which again has three actors and import and, not question
+ with color box and discover that comes out that say the white aperture, not question
+ so in diagrams if i send in some random electron, not question
+ involve electrons, not question
+ eighteen, not question
+ so i'm in this is mostly a standard lecture course there will be clusters used so by next week i need you all have flickers annual to register them on the t est website, not question
+ None, not question
+ it, not question
+ the first lecture the content of the physics of the first lecture is relevant relatively stand alone it's going to be an introduction to basic idea that is going to haunt playing and charm us for the rest of the semester, not question
+ one can't x is my old friend, not question
+ true, not question
+ from the uk and these are the technical names will learn the technical name for the properties later in the semester but to avoid distracting you by preconceived notions of what these things mean on the news and they use labels color harness and the empirical fact, not question
+ cool, not question
+ None, not question
+ then with one hundred percent confidence one hundred percent of the time the electron coming to white port incident article about will come out, not question
+ okay, not question
+ which measures the color in the harness in particular it is possible to build a box, not question
+ know what i mean by this is that it is possible to build a device, not question
+ None, not question
+ you've got all the books covered between you this will give you as much access to the taxes possible without forty two by four books which i would discourage you from going, not question
+ are there any other track to what tions, not question
+ solid six, not question
+ okay so now you'll you'll you'll kill bill watson later on the a c fuse, not question
+ but it's okay to be sure straight up physics, not question
+ assuming all check, not question
+ and they're posted on still website and link from the problems, not question
+ hi everyone welcome nato for the spring twenty thirteen this is the fourth and presumably final time there will be teaching this class and pretty excited about it um so my name is alan adams all be lecturing the course i'm an assistant presser in court eight i study string theory and its applications to gravity quantum gravity and condensed matter physics, not question
+ very lovely i'm, not question
+ visit mi to open course ware at c w dot am it dot edu, not question
+ and for two, not question
+ yes please on the problem set every week will be listed when there are be equipment reading from every textbook and if there's something missing with no to cover something opposed to separating everyone tall posted jewelry readings and i'll be available on the style of website so for example in your problems that which is first one was posted will be available immediately after electrons teller website there are three papers that refers to, not question
+ are these harness boxes, not question
+ it does require concerted effort it's not a trivial top okay and, not question
+ given that every once while you know you're the walking to school and your leg is gonna fall off for dogs going to jump out your, not question
+ the result is i was driving, not question
+ love so, not question
+ None, not question
+ is that every electron, not question
+ so your job is to devote yourself to the problems that my job is to convince you at the end of every lecture but the most interesting thing you could possibly do when you leave is the problem set so you decide who are the harder job so the work load is not so bad so we have problem says do they're doing the fix box in the usual places by lecture by eleven am sharp on tuesdays okay every week we work, not question
+ you're free to imagine that these boxes are built by putting you know, not question
+ i'm so there are and i haven't chosen a specific text book in the discussed on the seller weight page their set of textbooks for textbooks any strongly recommend and a set of others that are nice references the reason for this is is two-fold first off there come to languages there cannot be used for quantum mechanics one is called we've mechanics and it the language mathematical languages partial differential equations the other is matrix mechanics they have big names and if the language there is linear algebra and different books emphasize different aspects and use different languages and the also tried payment different problems some butcher in towards people were to materials science some books are in poor people action floss of each and depending on what you want get the book that soon to okay and and every week i'll be providing with your problems at readings from each of those with the recommended taxed, not question
+ similarly we can build harness box, not question
+ just let me say is if this stuff works pulley trivial you would need to be here so ask questions if you're confused about something, not question
+ okay, not question
+ conceptual understanding material, not question
+ None, not question
+ i met quantum mechanics twenty years ago i just really zealous i was kinda depressing so old friend, not question
+ so what i really encourage you to its final group of people to work with every week and make sure that, not question
+ yeah use i don't know i don't think so um i think it's going to happen at the end of the semester, not question
+ None, not question
+ None, not question
+ right after prom see yourself, not question
+ oh that's an interesting question um i don't of the top of my head refuse me an email and all projects i do know several other lecture series that i like very much but i don't know if there build on you tube or publicly, not question
+ i will call them color and harness but the, not question
+ color and the way it works is this it has three aperture is an import and two out ports, not question
+ does not matter what inside but if you want a little idea i can imagine putting a monkey inside the hyper intelligent monkey, not question
+ okay, not question
+ it's also my most powerful tool, not question
+ and so here's a thought and i think i want to come on the white after seven into a color box again, not question
+ there is so the deal is, not question
+ every looking that's ever been observed is either black or white, not question
+ if that logic of this lectures based on a very beautiful discussion in the first two chapters of a book by david albert called quantum mechanics and experience it's a book for philosophers but the first few chapters really lovely introduction at a non technical level in anchorage to take a look at them, not question
+ okay, not question
+ so cheap property, not question
+ i'm, not question
+ i need to focus on two properties electrons, not question
+ lots of other people castles in be confused if i'm not answering a question with out you asking the no one's getting the point right so ask questions don't hesitate in rob just read your hand i'll do my best calling you on and this is true both a lecture also got office hours and recitation ask questions i promise there's no such thing as a terrible question someone else will also be confused, not question
+ these are the most unsettling experiments ever done, not question
+ now if you want, not question
+ what's the best interests questioning soon so to practical things to know the first thing is everything that we put out will be on the still a website lecture notes homeworks exams everything is going to be done through stellar include your grades the second thing is that as you may notice there are other more likes than usual and where in the mike and or the finds out we're gonna be video taping the score for the lectures for c w and if you don't want to you know if your happy that cool if not to sit on the side and you won't appear anywhere in video, not question
+ today i want to describe to you, not question
+ it open course ware continue to offer high quality educational resources for free, not question
+ and no other color will never seen a electron there are no green electrons known as are found florescent will there either black or they are white is a binary property, not question
+ okay, not question
+ hard electrons come out this port and soft electrons commit this port, not question
+ yeah i lose policy newly workers attempted what so ever, not question
+ so finally, not question
+ in order to really develop intuition essential things to solve problems so it the way you develop a new intuition in my solving problems and bike dealing with new situations new contact me regimes which is what we're gonna do email for it essential the work on the problem sets, not question
+ where are the harder the air soft binary properties, not question
+ they have been performed, not question
+ they'll call the color box that measures, not question
+ okay what actually makes you learn better and clicker's are an excellent example that, question
+ could we work this out of you know ahead of time come to us we need you that well ahead of time then it for him, not question
+ okay, not question
+ however, not question
+ oh awesome honey on our new, not question
+ there never squishy no never from when the dribbles, not question
+ now not so much but we will drop one problem set to make up for an unanticipated events will return the grated punch a two week later recitation should be easy i strongly strongly encourage you to collaborate with other students on your problems you'll learn more they will learn more it will be more efficient work together, not question
+ am, not question
+ okay this is been enormously valuable and it's something i wanna say just write off is that the way of organize this class is not so much based on how of the classes i was taught its base to the greek possible on incurable lessons about what works in teaching, not question
+ that's my mind, not question
+ secondly there harness is either hard or soft, not question
+ and the utility this box is that the color can be inferred from the position if you find the particle electron over here in the white electron if you find the light in here is a black look cool, not question
+ is this of course and when can squat mechanics is my daily language, not question
+ so i'm no place like about it and are rescission factors are buttons reebok and matt evans yeah that's new departments are welcome him high, not question
+ don't get this is the first year we haven't any one person with the same um so, not question
+ particular set of experiments, not question
+ so he just started a faculty position is pretty awesome um and are the is probably also follow you here hey the cake so i'm his personal complaints to so i'm just curiosity how many or course eight, not question
+ sadly i can't do have a great your welcome to if you like um but hopefully i should i should not play a meaningful role in any of the the lectures so i'm gonna i'm okay so the goal of a force for you to learn quantum mechanics and buy learn when mechanics i don't mean to learn how to do calculations although that's important and critical thing i mean learn some intuition appointed development which for quantum phenomena, not question
+ turn that sounds good um so i'm gonna call yeah, not question
+ okay so i'm, not question
+ okay that's the best way for you to develop and test your understanding, not question
+ that's very valuable to me and everyone else okay i'm so before i get going on the actual physics continent class, not question
+ a monkey inside and we send in a electron and monkey you know with years looks at the electron and says you know its a hard look on so that when we're at the top look consent of the other the working since i do not matter in particular leader in this miserable described in considerable detail the workings inside this apparatus and here's something on emphasized you it can be built in principle using monkeys, not question
+ to make a donation or to view additional materials from hundreds of them it courses, not question
+ excellent nine, not question
+ no one can does not hard it has already been a hard topic is not a super hard topic it does however require two in particular everyone in this room i'm totally positive can learn quantum mechanics, not question
+ there will be two midterms dates to be announced and a one final if you could have multiple that would be a little exciting um we're gonna use clippers and clippers will be required when i can think of tenants but they will give a small contribution to your overall grade and we use the most importantly for non grated but just participation concept questions and the casual in class quiz to prove your knowledge this is mostly so that you have a real time measure of your own, not question
+ None, not question
+ okay so let's start with our agenda the first piece in a probabilistic model is description of the sample space of an experiment so we do an experiment, not question
+ None, not question
+ and by experiment we just mean that just something happens out there and that's something that happens it could be flipping a coin or it could be her rolling and it or it could be doing something in the card game, not question
+ None, not question
+ visit mi to open course ware not w that m it dot edu, not question
+ None, not question
+ no I could spend a lot of time in this lecture talking about 5 the subject is important I'll keep it short because I think it's almost over anything that happens in life is uncertain there's uncertainty and Eucharist of whatever you try to do you need to have some way of dealing or thinking about this and certainty and the way to do that in a systematic way he's by using the models that are given to us by probability Theory and you're dealing with a communication, not question
+ None, not question
+ i'm it open course ware continue to offer high quality educational resources for free, not question
+ babe main part of today's lectures to describe those actions which are the rules of the game and consider if you really tv legs apples, not question
+ it's one percent excellent the baby don't need this class okay so one person who have about one hundred people in this class so there's going to be about one unhappy person i mean any where you looking life there's or in any group you look at there's always one unhappy person right so what can we do about it, not question
+ okay so now we can start with the real part of the lecture let us set goals for today, not question
+ None, not question
+ so probability is probability theory is the framework for dealing with uncertainty for dealing with situations in which we have some kind of randomness so what we want to do is by the end of today's lecture to give you anything that you need to know how to set up what does it take to set up a probabilistic model and what are the basic rules of the game for being with probabilistic models so by the end of this lecture you will have essentially recovered half of this semester's tuition that so we're going to talk about probabilistic models and more details of the sample space which is basically description of all the things that may happen during random experiment and the probability lol which describes our beliefs about which outcomes are more likely to occur compared to other outcomes probability laws have to be a certain properties that we call the actions of probability so, not question
+ so this is another possible sample space for the experiment where i flip a coin just once, not question
+ to make a donation or view additional materials from hundred of them it courses, not question
+ None, not question
+ None, not question
+ it's been from a stable equilibrium the resultant, not question
+ let's assume that that some instant of time, not question
+ right now i also have to measure things from some location so i need to define what i mean by why equals zero and i will define white zero the position where if the mass is at that location, not question
+ let me continue now using this information and try to reduce it to the minimum set of it cracked, not question
+ so here is now my mathematical description the mass is a point and of mice and on which two forces act that is the force fs due to the spray and the force a g two to the fact that this mass is in the gravitational field and therefore there is a gravitational force on this math f g okay we call this a force diagram or sunday because of the free body diagram, not question
+ it's one of them times the next full switch to force to to the spring minus the force to do the graphic to kate so, not question
+ from hope so i know what will be the force f s when the situation is as shown over that alright it at time t so at this time, not question
+ None, not question
+ okay let me immediately start with a concrete example, not question
+ in other words, not question
+ this free body diagram of the situation, not question
+ and by the way, not question
+ understanding waves and vibrations i have very important practical applications and furthermore they the fact that they existed this phenomena exists has tremendous consequences on the world, not question
+ and the boobs that this is still, not question
+ how about the gravitational force well that is of course the a c minus and g to force of gravitational field on that mask and indian its mind this in the y direction here because it's, question
+ so to describe that we use newtonian mechanics, not question
+ None, not question
+ it's, not question
+ mathematics, not question
+ in two, not question
+ what i have here is, not question
+ i know you've seen this often but i pod it's not all this what will happen to bring me pull the mass out in the mass maple just bring more down it may oscillate everything until you've, not question
+ describe what you see, questions
+ where these masses are these various times so i will define a coordinate system this is a one dimensional situations only need one corvette now corded wife my why will be, not question
+ i'm not smart enough to do it is but because the teachers or whoever wrote the book etcetera is so familiar with them the to heal do several steps in his head to her head and you don't know about it for this first example i will try to avoid anything of that kind later on the fast and i'll do the same as everybody else but at the moment as i say i'm going in gory detail okay so, not question
+ net force on the pot so why could zero is the equilibrium position and then the position of the spring when it says no mass attached is a distance y zero from that, not question
+ we are dealing with forces and mass, not question
+ i'm people from professor of physics of them it is joining my colleague professor waterloo in to help you understand the physics of ways and vibrations now you may well ask why i spent so much effort on waves and vibrations and the answer is very simple if you take any system disturbed from equilibrium, not question
+ and by the way you may notice i'm going very slow here i'm doing that intentionally i'm going to go here in gory detail every part you know because all said i know that one one go select chair studies in the book etcetera what you look at some steps from one to another one step to another and you can't figure it out the reason for a dolphin is not that you, not question
+ visit me to open course ware not w that i'm it dot edu, not question
+ so we know that, not question
+ None, not question
+ so the, not question
+ go to the spring will be in the spring constant times it's extension at that instant of time it is a factor, not question
+ and i know from you telling in mechanics that, not question
+ read the fine y equals zero to be the place where why double dog the second is zero, not question
+ it's pouring this math stuff okay now what else do we know, question
+ is, not question
+ actually writing algebraic equations about the defective one notice old hahahah i've note to myself in something here this has to be a the direction of light, not question
+ None, not question
+ these two forces from the information i wrote of at and so that is equal one over dishes f over and, not question
+ imagine that you take this is a small mouse and and you attach it to that spring at some instant of time and in the process of attaching it you may stretch the strings of the screen may not this instant not distract but let's assume while you are touching the job and stretch the spring little bit you holding it all right, not question
+ was zero at t zero was station so this is the beginning of our chance of dating all the information we got that here, not question
+ take, not question
+ this is because of the force acting it will its motion will change and it will have an acceleration whose i call a of the, not question
+ if, not question
+ None, not question
+ as shown on the right in order to be able to describe this i have to tell you, not question
+ None, not question
+ do not correspond to what one actually sees you know your theory understanding is hot, not question
+ the degree of force of gravity pulling it down and the spring force putting it up cancelled so that is no, not question
+ None, not question
+ None, not question
+ therefore i can, not question
+ this is the diagram, not question
+ waves and vibration two different didn't exist you wouldn't recognize on a huge difference, not question
+ None, not question
+ we know that, not question
+ and in all this i don't have to write things over and too many things of the a in these equations i was defying the symbol why with two dots on it as the second derivative off why with respect to time one dot is the first derivative of velocity etc, not question
+ unfortunately it's a single equation but i have more than one hundred because i don't know why zero and i don't know why if the clearly i won't be able to solve this equation alright but the that stage i go back to the information i told you at the beginning, not question
+ it's a fact it's in the y direction, not question
+ it's a lie zero is big ben numbers and why it this is a positive number therefore it's pretty distraction sprained will call the mass up so this is in the y direction this is tough, not question
+ at that instant its velocity is zero stationery you let go, not question
+ next we also know something about this spring i told the beginning that i could sending an ideal spring so for the purpose of this problem is she moving i have disposition fictitious thing a spring would essentially has no max last month which overpays exactly hoax lol and here i com help digress and point out to you that that's a terrible misnomer fixing that is no, not question
+ i can now, not question
+ the second hospital this since universe is described in terms of mathematical equations we can't solve those equations, not question
+ if there are forces acting on the mass that, not question
+ damn it open course ware continue to offer high quality, not question
+ good good everything down very cast we know that we define white code zero to be declared a position, not question
+ that of course is the second derivative of why respect to the, not question
+ from this, not question
+ understood what's going on you cannot predict the outcome, not question
+ imagine you have an idea let's drink a spring database hooks lol heated and i'm shown to the spring constant okay then from natural length l zero and you suspended from the ceiling, not question
+ two reasons one tactical to be able to predict what will happen but the other far more important, not question
+ hooks law of nature it is an impractical relation which tells you the force the spring exert would you structure decide to distance it but then you a it stopped and started cleats hooks lol so cokes lol, not question
+ finally i told you that the velocity of that is, not question
+ this is an extension of this spring will be of course why zero minus why why t okay it's and so i get the the force, not question
+ None, not question
+ solve it and predict what will happen to the cold that problem self, not question
+ recall that time she, not question
+ from a equals as an from this i get the deck celebration, not question
+ not gives the right, not question
+ first look around, not question
+ then why is zero we know that the second derivative of y zero not accelerate so that's a condition we must not forget and nothing we know that initiate the and other words it could zero the position of that mass is why michelle, not question
+ it is the way we have the objective way we have off checking with our understanding of the universe is correct or not if the predictions, not question
+ describing a situation with which we would like to on the stat, not question
+ a given situation converted into mathematics, not question
+ f is there is the sound of the force to do the spring and go to grab it, not question
+ therefore, not question
+ is the total force divided by and i can now the place, not question
+ emotion is ways and vibrations so somebody common phenomenon not only is it very common, not question
+ what is the role in playing in this course, question
+ we find that can be use for the description of nature that is mathematics in terms of mathematical equations, not question
+ nice we're having acceleration which will be equal to the net force acting on it divided by the nasty inertia of that system so that is what he will be i further told that victor that forces objectives so the net force acting on this mass is the sum of those to victoria of some of those two forces so, not question
+ to answer that question i have to be mind you what is the scientific method in essence the scientific method has to compile, not question
+ and that means predict result of stuff situations of experiments which is needed to see before, not question
+ increase right that why i position would why of t zero this is zero four zero zero to one of and in two k k one minus angie and i need you to from this get that okay while seattle is angie there, not question
+ now, not question
+ my role is related to the second part, not question
+ question is what will happen can you predict what will be the emotion that part, question
+ okay this is a vector equation pop all the parts are in the same direction in the y direction therefore i can re write this just in the equation for the one component and not bother to write the wise a white hat slot so this equation i really to now just removing dui hat tight so this is how the mass will be accelerate, not question
+ make a donation or view additional materials from hundred of them it courses, not question
+ the one and only language that can be used, not question
+ game, not question
+ what i would want to help you and, question
+ we will be giving out what for the come in the room will have handouts for you everyday so look for them on if you come in late will normally means on in the entrance way here i know that some of you have a long walk between glasses on so the handouts will be available so when you come rather hand out come on in to class, not question
+ i was like i am i've taken chemistry am quite convinced chemistry bears is not relevant to biology and anyway i was told i was wrong i was sure i was right i took chemistry and realized that, not question
+ i'm not sure when it's gonna be for all of you, not question
+ because i want you to make the world a better place for my for my daughter, not question
+ we'll pressing problem then what we is out there somewhere that is only we knew the molecular weight problems of the world and the salt, not question
+ actually can become a super hero by worrying about those chemical principles and then we can drive you to the greater than okay as well so i want to teach you how to be a superhero i also gonna teach you about esl utility acid base and oxidation reduction reactions, not question
+ but is its mit so, not question
+ so so nice and i were classmates, not question
+ so we could row and i were classmates, not question
+ and then molecules can react, not question
+ so creating docs to be used in surgery he knows the doctors got the right amount of a tumor you don't want to take more flash than you need but you don't wanna miss some of the cancer so you wanna image exactly where the cancer is chemistry is designing sensors to find explosives in war zones this is really important problem right now, not question
+ so this is the summary for today so today is really more about announcements and what we're gonna cover but there some features of today's handouts that will that you can use throughout, not question
+ you wouldn't be wearing the clothes are very pretty much a chemist figured out the material that you're wearing, not question
+ if you wanna spell i'm it gotta learn about the ideal gas law, not question
+ another thing that i didn't appreciate about chemistry was in the lab course i had we had a strong basin we gas and we were drop drop drop drop drop until i turn pink and we can calculate the molecular weight of an unknown be passing and i ask myself, not question
+ that days class, not question
+ some of you may not find your love for chemistry until next year or senior year and um it or evening graduate school or even when you have a job later on, not question
+ i would like you to apply chemistry, not question
+ i also want you to know enough chemistry so you can do your opt in chemistry lab and we'll talk more about the undergraduate research program throughout the course, not question
+ i heard the correct answer out there, not question
+ because i think it sends it says something very important, not question
+ restart the quest, not question
+ boy i'd i'm an engineer now and i have to work with him is all the time and i really wish i had paid more attention in chemistry class because we need to work together and i need to understand more what they're doing so some people do not find their love for their appreciation for chemistry till they have a career later in life so, not question
+ so we need to learn about matter and we need to know how matter reacts, not question
+ it's partly why think eight dollars is a good price to spend on these hands three times the great but they're all dead, not question
+ so you'll be hearing and this is a series i call in their own words, not question
+ so am i am happened running you're gonna be learning more about me as this morning goes on everybody should have a handout if you do not have handout erin will come around and give you one if you just raise your hands on those of you in the back just came in, not question
+ so what chemical principles are you gonna be morning that will help you solve these real world problems, question
+ visit mi to open course ware at c w dot am it dot edu, not question
+ so i'm not showing you some different pictures in this class i'm gonna be showing you these pictures so no pictures will be there to but every time i saw you again like i want to show you someone's alive so the living tennis people were using chemistry every day of their lives and i'm not showing short videos of these people tell you how they're using chemistry and what chemistry is being used for today, not question
+ not really a message that chemistry is not living disciplined chemistry with something that people use to do and it was exciting time but when i got there power means they moved on to other females, not question
+ so who is this, question
+ and then i went to college and they said you have to take chemistry of your thinking of a bio psychology major, not question
+ alright so without chemistry you wouldn't be alive your body or series of chemical reactions, not question
+ so we're gonna talk about how they react and whether reactions gonna go is about thermal dynamics is it's going to be spontaneous but then we also need to know if it's faster if it's slow that's kinetic summer going to cover both of those things, not question
+ when you have a paper that might be currently writing on without chemistry, not question
+ None, not question
+ what do you think, question
+ i, not question
+ starting pretty simple that's why i want, not question
+ so you can look who's next to and figure out you know who in your bro is going to be that famous person that one day you can say yes i was, not question
+ so what is chemistry research chemistry research is all these following things, question
+ so i'm, not question
+ we went to college to study, not question
+ sometimes when i'm traveling around and as a professor i travel the world and get fox on chatting with some on an airplane and or on a bus or something and they say what do you do and then i say oh you know i teach chemistry and i was kind of watch the reaction to that and some of them are like oh chemistry and other people say, question
+ None, not question
+ but if you have not found it yet i'm hoping to find a connection york connection to chemistry what about chemistry relates to what you want to do in the future and one reason and i do not appreciate chemistry in high school if i don't really understand who penis work and i didn't really understand what chemistry what's what people use chemistry for and part of the reason i think were these pictures that are often shown in courses in intro courses for chemistry and in your intro textbooks, question
+ spell and nineteen without chemistry we have the am from physics ny for math and we have the tea from chemistry, not question
+ i want to appreciate how chemistry is used to solve real world problems to make informed decisions about your health about the environment and energy and science policy and i want you to be able to advance science engineering through the application of chemistry principles, not question
+ in the first half of the course we're gonna start with atomic theory there is going to be a little bit of history and fault and not talking about the discovery of the nucleus on electrons protons and so were gonna have a little bit of history and some cool demos we're gonna move on to the periodic table that's the chemists toolbox those are the elements that we can combine to make things and we combine them to make things they need to bond so we're gonna talk about bonding and they're gonna for molecules and we need to think about the structures of those molecules cuz the structures dictate the properties of out of those molecules about an hour, not question
+ memories lecture summaries will always have the reading for the class, not question
+ i would schedule i was in chorus i would schedule everyone of my music lessons during the chemistry class i did everything to avoid having to attend chemistry in high school, not question
+ so, not question
+ this is my chemistry research is today this is what you're gonna be using chemical principles for, not question
+ are making you pharmaceuticals we haven't really produce new antibiotics and a long time in this country and a lot of things that we thought used to be treatable conditions now are no longer sm treatable because we don't have it you antibiotics and, not question
+ and or how to process it and i think really importantly, not question
+ biology, not question
+ i, not question
+ can you tell me who these people are, not question
+ chemical equilibrium interaction goes one way is going in the reverse direction at the same time, not question
+ it open course ware continue to offer high quality educational resources for free, not question
+ chemistry really should study chemistry because the major challenges of our time require chemistry knowledge to fix them treating human disease requires understanding of chemistry, not question
+ bio fuels energy alternative energy that's for chemistry is using basic principles to figure out how to design better biofuels, not question
+ i did not like chemistry in high school, not question
+ what do you think lisa majored in, question
+ me this is my college yearbook pictures so one day you will have one of these, not question
+ if your still have chemistry, not question
+ so what i'm hoping that you will to hear my coursing objectives ice on i get back to the is i want you to have a working knowledge of chemistry thing you can take advanced courses, not question
+ in biology and materials everything and unit on transitional part of the periodic table re a higher and cobalt and copper and nickel and all those amazing elements that really allow you to do the most challenging chemical reactions on those are especially fond and if you wanna have the power of chemistry got no about the transition that's, not question
+ principles in a lab it's not a chemistry lab in your drop, not question
+ None, not question
+ chemistry can be very different in different circumstances and that everybody can find their appreciation for chemistry and a different time in our lives some of you right now already like chemistry but a lot of you probably have not found your love for chemistry yeah some of you may find that love for chemistry during the semester i'm hoping it'll be a large fraction if you, not question
+ and that's why i want you all to have superior knowledge because my daughter needs more than adequate knowledge is to have a better world she'd superior knowledge that's my goal for all of you to teach you these things don't have to be content is in fact it's fantastic if you take the knowledge of chemistry and bring it other disciplines because we're gonna need all the disciplines coming together without solid knowledge to be able to to make this world a better place all say that there are many on five eleven one superstars in this class and the pastor came in like sarah who hated chemistry and became can major and ended up getting a phd in chemical biology on all these folks have gone on using chemistry not always and is, not question
+ None, not question
+ so i'm not going to give you a sense of the material so we had this on our list of topics today general information we gone through course material overview on introductions to the teaching team, not question
+ and then teach them the chemical principles they now to make the world a better place for my daughter, not question
+ who is this, question
+ it was in fact biology what do you think i went to college to study yeah some people watch my open course ware know these yes the inner drama by a psychology that's kind of like course nine on bathroom i was interested in, question
+ None, not question
+ people are inconsiderate meaningless you green lantern ring horse that wearing direction that you want if the green lantern pew's always greater than ten, not question
+ solve the energy problem requires an understanding of chemistry and people will come up with alternative energy i'm just lost his condenser knocking destroying the environment while they do it so i really think we need people thinking about solving the energy problem care about the environment and can use chemistry to think about how we can protect the environment so why do i care so much about this and that's because yesterday morning i walked my daughter to her first day of first grade she six years old she starting school and i need people to know chemistry to make the world a better place for her so what i can do as a mother who's a chemist is fine the smartest people i can find which i don, question
+ in biological engineering, not question
+ now let me tell you a little more about these these lecture notes that you can bring a pen or pencil to class to write on, not question
+ when you're going back over things and thinking about it you can always welcome what reading was associated with the class, not question
+ question is, question
+ and will be in equilibrium constant associated with that reaction but sometimes you really wanna go more in the forward direction to make the thing you wanna may see need to think about how the reaction quotient eq is related to the equilibrium constant head and the green lantern, not question
+ awesome always have a reading for the next class you can read ahead which is good for the free lecture questions, not question
+ None, not question
+ turn all this is kind of a good intro not working this to every day we learned about iterations because we need to know if pk can speak chinese important but we don't have a ladder or not can be doing an experiment, not question
+ friends yes, not question
+ or drama it was biology what do you think i am injured and it was chemistry and of course we all know that lisa is an actress and i'm canister professor so start every class with this, question
+ to make a donation or to view additional materials from hundreds of em it courses, not question
+ None, not question
+ we were in the same year, not question
+ i'll be giving some of the lectures for today along with, not question
+ None, not question
+ okay hopefully even started and problems and zero so i open my eighty e and then follow the next set of instructions pictures are random number between the first and the and for sponsor okay now i'm actually use python to do this and this is also an example of power just like a really simple task in your life you can use computers or programming to do that because if it was a random number i might be biased because for example you might like the number eight so to choose a random number i'm going to go and say okay where's the list of responders it starts at fifteen actually starts the sixteenth that's me, not question
+ there you go, not question
+ so yeah i'm getting so that's probably the big thing right there should probably highlighted it but don't be afraid, not question
+ it before his calculations and a half to store them somewhere great swordsman computer memory so computer also has to remember results and these days it's not uncommon to find computers with hundreds of gigabytes of storage and, not question
+ so i have to be readable and understandable by others so to that and you need to write code that's, not question
+ so what we sign up for the impact of knowledge in the previous owner example was the recipe right for how to find this for box so what were the three parts of the recipe one was a simple sequence of steps right number four step sprint, not question
+ internet not so computers don't know what to do without right now don't know what to do with that statement but computers do not follow recipe, not question
+ None, not question
+ up we go, not question
+ it's a picture and this is a really fast paced course and we ramp up really quickly so we do want to position you to sixteen and of course so as i was reading this is kind of think about when i was first starting the program know what help me get through my first very first programming course and this is really like a good list so the first thing was i just read the piece that's as new as they came out make sure that you know the terminology kinda just, not question
+ how is someone gonna win it will cardboard before class ends right that's repaired of knowledge comes in some part of knowledge is the recipe and how to or the sequence of steps okay sorry that's just my funny for that so the sequence of steps is imperative is incredible knowledge so if i'm a machine, question
+ calculate calculation types us a pervert can put these types together and define your own calculations, not question
+ okay, not question
+ so this is pretty much a road map of all of six triple one for six hundred as i just explained it so there's three main things we want you to get out of this course it okay the first thing is the knowledge of concepts which is pretty much true of any cost to take right class to teach you something three lectures example test how much you know this is a class in programming great, not question
+ just going to the bottom, not question
+ repeat the process over and over again and that's what the rest of their as doesn't keep doing this until you decide that you're close and, not question
+ but we just got up okay, not question
+ it was the number again zero seven eight five o get, not question
+ ri lets begin says i mentioned before this and this and this lecture will be recorded froze ew so again in future lectures if you don't wanna have the back of your head show up just don't sit in this this front area here so first of all wow what a crowd you guys were finally in twenty six one hundred six are pulling me that bank so good afternoon and welcome to the very first class of six for bowl and and also six hundred this semester so my name is annabel for me and last name bell i'm lecture in the cs department, not question
+ so if a computer follows this in this other than its gonna start with the gas g but say three eight or try to find this very of sixteen we're going to calculate g times jeans nine rate harass is fifty times use close-up tax will stop and cj is the answer i'm not really happy with nine being really close to sixteen right some this and i'm not stopping here i'm gonna keep going that so if it's not close enough then i'm gonna make a new gas but having g averaging gian x over ge so that's x energy here and that's the average of their and the new average is going to be my new gets hot and that's what it says and then the last step is using new gas repeat the process so there we go back to the beginning, not question
+ visit mi to open course ware not w that and it dot edu, not question
+ seventy five that great so i chose a random number and i'm gonna find the number in the responders she, not question
+ None, not question
+ so it's really about learning how to program, not question
+ you would've entered a raffle okay sistema fact for today's lecture is someone will win a prize before class ends and the prize was a google cardboard right to state of the art virtual reality glasses of making a about delivered on my promise okay so that's a statement of fact but if you get super tan i'm a machine, not question
+ None, not question
+ and that's writing programs you need to programs are just near sometimes programs on browning make decisions for some control flow to programs so that's what the second one is going to be about, not question
+ so the kind of populations that computers go there two pints of water calculations are built into the language so these are the very low level times types of calculations things like addition subtraction multiplication and so on, not question
+ one thing i wanna stress and we're gonna come back to this in this this again during during this entire lecture actually is computers only know what you tell them and there's only do what you tell them to do their not magical, not question
+ and not only that not only will your could be read by other people but next year maybe i'll take another course and you want to look back at some of the problems that you're reading this class you kinda want me to reread your code right if it's a big mess you might not be able to understand or understand what you what you were doing so writing reader prima could organize income is also big part and the last section is going to do with the first to actually part of the programming in introduction to programming and computer science and i thought the last one deals a little bit in there deals mostly with the computer science part introduction to programming and computer science and i am sure gonna talk about once you learn how to write programs in python how do you compare programs in python how do you know that one program is better than the other, not question
+ that was fine but we're not we're not students right and we love numbers hear them it right so here's america example for that shows the difference between the cardigan part of knowledge so i want to find this word and so example declared knowledge is the square root of the number x is y six et why terms that is equal to its got but just a statement of fact it's true, not question
+ go for some in class exercises which will be available on the sides and it's fun to do and it's also great if you could take notes, not question
+ and once you have a language that has these sort of primitive, not question
+ None, not question
+ exile, not question
+ okay so we're gonna choose a random number between sixteen and the and person to sixty six, not question
+ okay so then, not question
+ i am about on the code just singing just for future reference, not question
+ the first type of knowledge is declared of knowledge and those are things like statements of fact and this is where my email came in to play if you read all the way to the bottom, not question
+ it's a taxes originally sixteen, not question
+ thanks, not question
+ they don't have a license they just know how to perform calculations really really quickly but, not question
+ and the last part of the recipe was a way to stop it you don't want to program that keeps going and going on for recipe you don't want to baking bread forever right you wanna stop at some point, not question
+ that's really in particular road map of this course looks like, not question
+ there was a flow of control, not question
+ order will help them it open course ware continue to offer high quality educational resources for free, not question
+ so here's the another them to find the square root of a number, not question
+ and here's don't know anything marked it come to that so let's let's go into the types of knowledge, not question
+ None, not question
+ learn how to program is part of it is figuring out what what objects to create learn about these later honey represent knowledge with data structures outside the broad term for that, not question
+ okay that's all for a bit and seven ministers part of the course so let's let's start by talking a lot at a high level what is the computer do so fundamentally does two things one performs calculations for the performance a lot of calculations are computers these days are really really fast a billion calculations per second is coming up not far, question
+ i don't know anything except what you tell me what you tell me so i don't know i know that you tell me the statement like a, not question
+ is a little bit more abstract and it deals with how do you write the code, not question
+ worst case you just restart the computer and, not question
+ the second part of the scores, not question
+ can you create times types of calculations on the computer will be able to to perform those as well, not question
+ how do you know that one program is more efficient than the other and you know that one algorithm is his is better than the other so that's where we're gonna talk about in the last part of the clippers, question
+ that's the flow control, not question
+ later on in in the term professor consent missing right and there will be giving some of the lectures as well okay so today we're going to go over some just basic chemistry but of course information, not question
+ something and then during lectures no collector was talking about something that you suddenly remembered i saw that word and the piece that i didn't know it was will he now i know what it is right so just give it a read only to start it, not question
+ last thing and i think this is what makes this class really great is we teach you how to solve problems and we do after the pieces, not question
+ so there were parts where we made decisions and are because now there are parts where we repeated some steps should be and reset repeat steps one to three, not question
+ if you knew programming i think the key word is practice so it's like math know or reading more you practice the better you get at it if you not gone absorb programming by watching me right programs desire to know how to program right you need to practice so download the code before letter follow along whatever i type you guys can type and i think also one of the big things is if your new to programming you're kind of afraid that you're gonna break your computer right and you can't really do that just by running anaconda and and typing in some commands so don't be afraid to just types in something and see what it does, not question
+ an underlying all these is just practice so you have to just take from subway and code alot and, not question
+ lauren zero v is there nothing so that's example of me being a machine right and also the same time using my phone and just my everyday life right just lecturing just to find a random number right so just in chinese python where you can just give you practice okay so, not question
+ i'm could that's readable so when you write code you want to write it such that nearly company other people read it other people would you set, not question
+ you have to tell them what what calculations to do, not question
+ to make a donation or view additional materials from hundred of them it courses, not question
+ the other thing we need you we want you to get out of it is programming skills, not question
+ you'll succeed in this course it okay so what are the things we're gonna learn in this class feel like it but things are feeling this class can be divided into basically three different sections for the first one is related to these first june first i don't care, not question
+ well organized modular easy to understand the, not question
+ the last time, not question
+ and so the same technique tells us how to determine the velocity from the acceleration since we saw that that was equivalent to an area under the curve problem, not question
+ accosted, not question
+ area of this truck has lloyd, not question
+ and strips, not question
+ now let's consider a more generally changing generation as a function of time so when papa's, not question
+ alright as the integral, not question
+ a change in velocity from time a to time b is equal to the limit, not question
+ the notice that there is no arbitrary constant in the definite article in the indefinite integral we have an arbitrary constant but in the definite integral that arbitrary constant is determined by setting the integration limits so there's no arbitrary constant we just have, not question
+ the exact area not deposit everybody exact area under the curve of the integral from to you face to the this limiting some, not question
+ under the age of the curve, not question
+ nice one i'm not going to the frog is because the idea of that these rectangles as well as i can the now or i make the rectangles the more easily i can fit them on the curb for each strip, not question
+ a change in velocity delta v, not question
+ turn, not question
+ so for linearly changing acceleration, not question
+ yes, not question
+ acceleration, not question
+ thank, not question
+ with driven so d d, not question
+ over the integral from tisa beta tisa be we can estimate this by breaking up the interval into a bunch of little rectangles supposedly disciplined and rectangles, not question
+ as a token of time to change in velocity will still be, not question
+ so, not question
+ our acceleration, not question
+ let's say from he over, not question
+ over that time and travel, not question
+ under a of tea over the time interval delta t, not question
+ can be written as, not question
+ two, not question
+ and its related, not question
+ the area, not question
+ this is x equals a, not question
+ None, not question
+ and this time, not question
+ times the width of the strap would you surpassed the same with will call that, not question
+ None, not question
+ a of the subject, not question
+ consider function, not question
+ a fax and suppose, not question
+ the area, not question
+ under the curve as a fax in the info from mexico, not question
+ the fax, not question
+ average, not question
+ look something like that, not question
+ over some time to build up the tv can this be written as a not acceleration because acceleration times, not question
+ None, not question
+ so just, not question
+ one learns how to calculate the indefinite integral of various functions, not question
+ this product is actually the, not question
+ same so be, not question
+ is equal to the empty derivative, not question
+ you totally did it so as a retainer area involving the average acceleration but that's also equal to the area, not question
+ this is again the area, not question
+ will have the acceleration of the function of time and will want to find the velocity of the fucking time for the position as a function of time will use a technique called integration let's see how that works, not question
+ any time will be, not question
+ go back to let's assume that's a well behaved function by which i mean that it's continuous and different ball over the age of the rate of seven so consider g a fax, not question
+ sometimes however want to go in the other direction, not question
+ the process of integration that you've learned about a cactus which is the inverse of taking the derivative the inverse of differentiation i want to take a moment to summarize the basic principles of integration from tacos, not question
+ so cockiness tells us how to solve this very problem had a computer definite general from the movie that you got from indefinite integration, not question
+ acceleration function, not question
+ let's begin by considering the function go fax with some derivative, not question
+ to see this graphically, not question
+ under the time change, not question
+ integral of f a fax the axe evaluated from x equals a, not question
+ now i suppose i want to convert this process, not question
+ he said they, not question
+ two x equals pizza this is the definite integral computed over some interval, not question
+ and here's the time delta t to change in velocity a not, not question
+ acceleration times, not question
+ reach rectangular strap, not question
+ just under the skirt, not question
+ None, not question
+ and this affects it was being the definite integral represents the area, not question
+ the integral, not question
+ first with the plot, not question
+ times the width of that rectangle delta chi so that's the area, not question
+ at fox being defined by the time it of all zero to delta chi and its area under the curve a not, not question
+ time piece of j, not question
+ six, not question
+ this is a fifty, not question
+ strips i want delta t to go to zero to jamaica is exactly what i would write is that, not question
+ is equal to, not question
+ a change in velocity, not question
+ go fax plus, not question
+ of a fax, not question
+ all the area of each of the straps and so we want the acceleration at the i rectangles so that's, not question
+ as well, not question
+ just some general function on drawing like this which is our acceleration, not question
+ t is some constant a not, not question
+ no to we can to find an average acceleration over the interval from zero to delta t, not question
+ notice from the diagram, not question
+ the time it will shut it said be and this is, not question
+ now this is a very important expression and we have a special way of writing it we can also write it, not question
+ None, not question
+ it's basically the area under the age of tea function going from zero to delta chi, not question
+ between x equals a and x equals be, not question
+ is equal to the average velocity, not question
+ that's the area, not question
+ of the function a of tea, not question
+ so were just added figuring out what the area under the curve aids, question
+ in that case we know that is constant federation, not question
+ we wouldn't that sway on the right hand side is called the definite integral of a of the, not question
+ out of ink is equal to the average, not question
+ so to come back to the motion of objects we've shown that the change in velocity of an object can be written as the definite integral of the acceleration, not question
+ as a function of time, not question
+ how know meals traumatic functions lot with the functions etc, not question
+ the strip is actually what were saying is that if we make the rectangles now enough we can treat the acceleration curve if they acceleration as roughly constant over that digital pen and we can make an is because we need to to make those rectangles very very now okay so not case we can estimate the total change in velocity from time to use of a to time and he said be by adding up the area of all of these retainer strips, not question
+ if my plot, not question
+ facts, not question
+ write a for family, not question
+ definitely to go, not question
+ so, not question
+ is still, not question
+ concert, not question
+ and, not question
+ as an integral so we might as, not question
+ honey, not question
+ select suppose we want to go from this time he got caught t survey, not question
+ panic and that can be any arbitrary constant, not question
+ box one from here to here the change in velocity, not question
+ equal to the same function of effects and this is because of the derivative of a constant is equal to zero, not question
+ over the last time, not question
+ a little bit if it will stick out, not question
+ of the acceleration, not question
+ None, not question
+ it's in this is one two three four etc, not question
+ be added to move it evaluate it acts equals me and this turns out to be, not question
+ of tea of and i, not question
+ okay so in that case we write that the change in velocity cells a the ssid be minus the survey of attainable also going from time a to time b, not question
+ the area under the curve a of the over the time and were interested in, not question
+ of the sum from j equals one to and, not question
+ then the change in velocity, not question
+ is, not question
+ what's difference, question
+ times delta t is just the area of this box, not question
+ nope that if i had a constant to go fax i'll still get the same derivative, not question
+ at the top, not question
+ as jay goes from one to ten, not question
+ cockiness also shows us how to compute the deck fitted will, not question
+ None, not question
+ hell to the, not question
+ call this time, not question
+ None, not question
+ know for a fine i really should write this as approximately two because for a finite number of retainer strips this is just an approximation because i mentioned the rectangles don't exactly fit under the current they can't because the rectangle doesn't have a kirby top but the function is curved but the narrower and make the rectangles will probably larger i make an, not question
+ in this way because the change in velocity from that initial velocity is given by a non hostile to the, not question
+ and therefore that, not question
+ this is my, not question
+ the have to drive of, not question
+ what's the cause and, question
+ the film, not question
+ so if we know the velocity at times zero and we know the center because acceleration a not we can calculate the velocity at me later talking, not question
+ acceleration, not question
+ left hand side of this we call an indefinite integral, not question
+ six hundred h and misses tonic will zero suppose acceleration is increasing willy and all, not question
+ add with of about that is g a fax, not question
+ because this is curved graph i can't get the right angle to fit exactly, not question
+ g of fax plus, not question
+ is equal to, not question
+ my function, not question
+ the better the approximation will be so what what i want to do is go to the limit of an infinite number of rectangles or it will only the limit of infinitesimal in our own, not question
+ suppose we have a constant acceleration, not question
+ to change in velocity delta v over sometime it to full, not question
+ plot acceleration vs time, not question
+ after ten and with each one, not question
+ the t, not question
+ in the interval, not question
+ under the curve, not question
+ people to another function which i'll call after effects now, not question
+ is my constant acceleration, not question
+ d two evaluated from, not question
+ suppose we have, not question
+ no in calculus, not question
+ and so, not question
+ consider a slightly more complicated example suppose the acceleration is in constant but is changing manually, not question
+ not having separation, not question
+ then i can write that the empty derivative of f of x, not question
+ until we see that if the derivative of g of factors of a fax plus the concert, not question
+ times delta t want to evaluate that limit as bill to tv goes to zero or currently as in the number of rectangles goes to infiniti, not question
+ we can use differentiation to calculate its velocity and acceleration of better times essentially by taking the derivative of the position we know everything there is to know about the motion, not question
+ x equals p minus, not question
+ the last time delta t o because he this graphically if i, not question
+ a not that say this time zero, not question
+ i can draw this graphically, not question
+ you can call me what it is that i'm call you a story teller and i was like, not question
+ i am in six years and i kinda got a handle on it i kinda understood this is what shame as this is how it works, not question
+ they have a strong sense of love and belonging, not question
+ to breeze through waiting for the doctor to call after your memory, not question
+ the one thing that keeps us out of connection is our fear that were not worthy of connection, not question
+ i personally thought it was the trail, not question
+ i have a vulnerability issue and you know and i know that won't abilities kind of the core, not question
+ got him so i said here's the thing i'm struggling and she's with the struggle i said well, not question
+ None, not question
+ and i'm like it not discomfort upside the head and do that over and get always that's my thought was my mantra, not question
+ None, not question
+ that i won't, not question
+ no so this is what i learned we now the owner dot, not question
+ we struggle with that so much mi alone and struggling phone ability, not question
+ what they had in common was a sense of courage and when a separate courage and bravery for you for a minute courage the original definition of courage when it first came into the english language it's from the latin word per, not question
+ is i took all of the interviews where i saw where the gas russian people living that way and just look at those what do these people have in common and i have to have a flight office supply addiction but that's another talk and i had a million of them no colder and i had a sharpie and i was like what am i gonna call this research and the first words that came to my mind were whole-hearted, question
+ angry and he okay he said what's going on and i said this is a therapist who sees there is, question
+ and it stop controlling predicting this lead to, not question
+ and it turned out to be shame, not question
+ and folks who struggle for it and folks who are always wondering if they're good enough he was the only one variable that separated the people who have a strong sense of love and belonging and the people who really struggle for it and that was the people who have a strong sense of love and belonging, not question
+ was that, not question
+ the willingness, not question
+ i found a therapist, not question
+ None, not question
+ he was just sweet talking me and was like, not question
+ a shame and fear and our struggle for worthiness but it appears that also the birthplace of joy of creativity, not question
+ my one year is turned into six years, not question
+ hey, not question
+ very intense data announces light went back hold these interviews pulled the stories pull the internet with the with the theme of the pattern, not question
+ little break down which actually but we're like this and that led to a i call to break down my therapist called the spiritual lightning here so i can found better than break down but i assure you it was a break down and i had my data away and upon their presentation thing you know who you are when you call your friends and say i think and you see somebody who do you have any recommendations, question
+ why not magic pixie i do i think about this for a second and who, question
+ love it, not question
+ so where i started was with connection because by the time your social worker for ten years what you realize is that connection is why we're here, not question
+ i had the compassion, not question
+ and i'm or the lights nessie clean it out organize it and put it into a bento box and so to think i have found my way, not question
+ when were waiting for the call is twenty percent something out on twitter and on facebook that says how would you define portability what makes you feel vulnerable and within an hour and a half ahead hundred fifty responses, question
+ this is this is what it's all about doesn't matter whether you talk to people who work in social justice and mental health and abuse and neglect what we know is that connection the ability to feel connected, not question
+ my first meeting with our diana, not question
+ was something that personally and professionally i felt like i needed to understand better, not question
+ and chain is really easily understood as the fear of disconnection is there something about me that other people know it or see it, not question
+ as you know it's like internet well you know that so i can tell you a lot about shame but had to borrow everyone else's time but here's what i can tell you that it boils down to, not question
+ yo my mission to control and predict had turned up the answer that the way to live is with on ability, not question
+ i'm really struggling with how to write about you on a little flyer with the struggle and she said, not question
+ i want to understand them i want to hack into these things i know are important and lay the code out for everyone to see, not question
+ yes, not question
+ be worthy of connection the things i can tell you that it's universal we all have at the only people who don't experience shame have no capacity for human empathy or connection no one wants to talk about it and let you talk about the more you have, not question
+ well what the fuck this to understand what this is saying and how this is useful, question
+ there are many types contestants in this race so just algorithms with the linear runtime graphically these rough times look like a line with the slope you can imagine as a turtle the moves at a constant speed and never slows down or driving card that doesn't accelerate, not question
+ it's often helpful to separate and algorithms one time be so what happens in the best case the average case and the worst case but we usually take the pessimistic view and simplify algorithms runtime two is worst case behavior, not question
+ speedo covers all teleportation weather takes one second or one million years, not question
+ we think the run time of algorithms as a function of the size of the input with the output is how much work is required to run the algorithm, question
+ so we see that x squared and five x squared plus twelve x thirty seven orme big of each other because they're the same when we ignore the smaller terms and constance, not question
+ while bigelow is important and certainly useful it isn't the end all be all big over races constant factors but sometimes those are actually important when we want to program to be performed such as a video game programmer will try to save every bit of computation even if it doesn't change the bagel run time, not question
+ what may seem like the car's faster it really has the same type of speed linear which we call big of an, not question
+ easy right, question
+ in order to analyze the efficiency of an algorithm we generally use a technique called big ole passing talk analysis the definition of big ol is activex isn't big of go backs if and only if there is a okay and x not suffer all x greater than equal to x not at the x is less than or equal to k time she vax, not question
+ the reason is that different computational models can result in different to go run times but pulley time algorithm will always be poly time regardless of the machine model, not question
+ the reason we take a step forward it first for every new stat he goes back to the start repeat everything he did before and then takes the new step the time it takes it make each new step essentially doubles every time giving us a run time of big ol of tooted and, not question
+ big o is also useful beyond just looking and algorithms runtime, not question
+ will be go does teach us that sometimes slow and steady doesn't win the race, not question
+ this is bigger of log in also known as the logarithmic function, not question
+ you can think of big of she has a giant umbrella that covers all algorithms that are at least as fast as ge for example pretty much every pokemon is in big ole slow poke since they're all faster but almost no one is in big of you same bolt except for you simple to himself, not question
+ we can use it as an analysis to how much space and algorithms using which is especially important if we have hardware constraints or operating on very large sets of data we can even use po isotonic analysis of problems in cells showing that it's impossible for any algorithm to solve a problem faster than a certain runtime, not question
+ for example what think of a race of the could teleport, not question
+ as we payed algorithms in a race against each other this will be a special kind of race with no finish line instead we prefer algorithm to have a clear lead or the other contestants have no hope of catching up because this race has no finish line we will allow the contestants to cheat and start wherever they want and even take performance enhancing drugs to multiply their speed by whatever cuts effected they want colloquial eat this means that we only focus on the largest firm in expression and ignore all constance, not question
+ None, not question
+ solution is the right one and how do we compare one algorithm against another, question
+ think of it in a lot of traveling the southern adventures interviews like this what do you do on your days off hangout with friends, question
+ is your favorite place to visit in the world cup was specific thing do you love the most about taxes people, question
+ what's the one thing you can never live without, question
+ lol how doesn't work with one hundred that you never give up dance at what's one hobby that you plan on picking up, question
+ so what are new to the phone a cover of your song by musician named marie britton, question
+ what is a cover yeah i'm using and is coming your clit why do you, question
+ do i sound but have that's okay so how do you describe yourself in three words loyal kind, question
+ what's a pet peeve that you have people are rude, question
+ what scares you the most losing someone i love what makes you the angry is, question
+ cat what's one at fashion trend that and try to get the most, question
+ shoulder pads what's your favorite exercise plays was the best so to enter into don't stop believing with your spirit animal mastery as until they seem to get appoints language they teach my newborn child japanese, question
+ what is your first memory of life, question
+ i am painting the look up to most in life and was the best piece of advice you receive from him treat others how you must treat with a good will have learned from your parents everyone is equal and everything happens for a reason what advice would you give your fifteen year old self guided do it cuz you're gonna do anyway with something you know now that you didn't know that haitians where do you see yourself in ten years of happy what tv show i've been watching these days trigger enthusiasms fictional character you want to spend the day with matt had a fictional place you want to live wondering what's the last movie that made you cry packs orange what's the movie to watch over and over again crazy stupid love what was your favorite movie as a kid the wizard of oz do you have any hidden talents think that having any more cuz that you get to but i can say anything in a foreign language, question
+ baby upset was because a president that a romantic dinner with the best gift that you've ever received a jewelry box was one thing people would be most surprised to know value how much i love depressing things, question
+ when do you feel most beautiful when i'm with people island when do you feel most creative when i'm sad, question
+ how is the find out, question
+ can you tell me a secret, question
+ can you tell me a lot, question
+ last question can you in this interview the worst joke you've ever heard, question
+ what did the pirate say on his eightieth birthday dinner, question
+ is the right style and we use the three to six called questions only way i'll start and when it does we can only speak in questions that's all i do for the make a mistake grimaces out and the next person will pick our place and greg was it your cat is a tourist hotel is about to turn into the towering inferno questions only plays, question
+ well no what color smoke, question
+ would you believe sixteen years groups abortion insurance to go sorry i didn't do it what's going on, question
+ would you like to check in, question
+ we have a room for three how many engineer meet you mean three people mean really gotten any or three dogs that look like this, question
+ what is one year, question
+ is it going alright was the coolest thing about sydney australia when people was your favorite place to hang out in sydney australia and the beach, question
+ what up what you think, question
+ vertical see your side being huddling was the best travel advisor anyone visiting sydney australia and bring sunscreen and why didn't was the best thing about nashville, question
+ what c'mon push ups with one tony wish you had, question
+ do you really think about country music, question
+ can you do an impression of someone said, question
+ it's too easy to recognize that can you do another question so now certain that when packing all of the lights can you please take this post down and writing a secret to someone special, question
+ is your favorite sesame street character it's, question
+ what's your favorite color and you stick to this ericka probably, question
+ what times are yoga space heater fashion icon, question
+ my six packages with your spirit animal and object for the shoes and other career over the fish scientists was able to cure something very important cure cancer can you answer this question from this man on, question his i pad
+ why was, question
+ what's your favorite at the weather app their website to times one superpower what would it be to fly low paid a toy what's the best part about being a mom on everything in the line of joy the purpose, question
+ show me the tv show bolton the weights generally would die to play in the wake of which of the west in the remake of the wizard of oz, question
+ this is such a cool kind of yellow one and give me when you get this cottage who would you invite and keep and was a historical figure that have coffee with arun was about, question
+ where is your favorite food homemade warm bread with that he was your least favorite food ham eleven at pizza truffles truffles and amazing choice of what's inside the vehicle concocted, question
+ what are you most of as a learn being an actress, question
+ what would really like its small we can all know each other with hugh jackman really like, question
+ what's one thing you always bring with you on sat, question
+ why, question
+ if you could say something to yourself in thirteen years what would you say i told you so, question
+ what's the best part and get from an australian to american on a farm visit like this, question
+ what were the, question
+ what's the reason, question
+ are you crazy don't you know this winter two hours ago, question
+ would I care if I sent you make me don't you think it's too late, question
+ don't you know i can read your eyes, question
+ could play in good to see you its good to see you here in sunny los angeles yes what's the best thing about being in los angeles weather was what's the worst thing about being in los angeles the small and a man's, question
+ is hollywood really like and, question
+ what country in the world would you love to visit on man there's two men name of the plateau to coaster rica the one thing you can't live without love, question
+ what's your favorite color probably red, question
+ hair color do you enjoy having most probably read, question
+ the funniest person you know who jesse eisenberg is one of the funniest people world, question
+ who made you most star struck and, question
+ are there a muslim faith, question
+ who made you want to be an actress a lot to jerk any hall hocus pocus beetlejuice them to be what you be having that thats great thank so much up could you want to shoot a love scene with marlon brando in on the waterfront, question
+ what's your dream role, question
+ who created just a thought but given up dub smash off line to seven am does national on my phone you do that of james cordon singing amazing grace, question
+ and that was goes as with everything the french fries and brussel sprouts not necessarily the same time with your listed in the beatles and anything with this of what was your first job i bake dog treats and a dog bakery, question
+ what is your favorite fashion trend all to, question
+ what, question
+ a deaf i don't know how to play was eastman's cash red yeah okay what is your favourite book of all time we've had everything carpenters bg sound he live in any era what would be i always thought it would be twenties but then i realize that it's kinda easy idealized times and forget about typhoid for something you always travel with a book in water if your stuck on a deserted island was the one thing you couldn't live without a boat to leave the island what's your favorite television show of all time high off with his there and all of her plot was two seasons is billion with your favorite plot twist in any movie and loved the plot twist in planes trains and automobiles for rent of he have ran and what a gorgeous tanya was appreciated as much wound meditated on his cover seven three words probably, question
+ what is, question
+ who is your favorite superhero, question
+ hey do you have a secret talent, question
+ hey guys its a woman thing that all i get on the stuff what something most people don't know about you alot these people know about me but that's a whole point is seventy three questions and for instance if you turn to your left on this plasma tv you'll see a man asking you a question greg will stop crying bedtime story should i read a whole love you forever even with all due nicknames and, question
+ advice would you give your teenage self stop with the self tanner than of was the best gift you've ever received him a rocking chair with the desk, question
+ what, question
+ so where's fashionable time welcome to pants just my opinion of you have a morning the ritual, question
+ what's the weather in your morning positive self talk what are three things that you cannot live without music good hogs and butter popcorn what is fun to have more subscribers and there are people in half the countries in the world i mean i have thirteen million subscribers which is like twenty six million eyes and give me a chance everyday so is fortunate can you tweet something tell them and yes how did you start your channel seven two thousand ten when i was a not so happy person and making meals made me happy slip last word that makes sense but one thing you can still bet most people don't know about you, question
+ i can run or jump whatever you more than two billion views what's the key to successful but it has the key to a successful videos how you define success it just turns me enjoyed and sent, question
+ between sanders and in my house who's following you around her and with the what do these are new this one i love it i just believe that everyone should feel like taking their own superhero especially onions why do you call yourself super woman because i was going up congress of superman really help me to some tough times fifty did of superpower what would it be, question
+ yes there is your documentary right there in the morning when the crown come from anyone lol island is a synonym for my happy place of a chip to crown is my documentary that trouble me travel me all the child across the world the mafia what causes there for julie, question
+ what you want to seventy four questions asked me what you'd been then made okay as long as there to whatever is like a person, question
+ what is the best so supportive they're super cool animals all of drakes lyrics were for what ever you wanted to be a rapper when you're younger when the indian prince think of me when i was young i was your app on the really, question
+ can you rap while verifying the following claims made about you, question
+ wells in Kenya in a really cool Safari collaborate with anyone living or dead who would it be, question
+ they're downside all this and has downs and everything i think everything is a double edge sword and how does one stay humble three hundred miles that's true we was given a closet the whole image is right here and take the sadness that i love locations loans what is harder on everything that which renew it doesn't go out of style attract off denim cain's xel ha for what does beauty mean to you is it beauty means individuality you think it's humanly possible for you to describe yourself in three words only funky bottles stanley watching in your lipstick valves, question
+ the end of the effing world so it's always good is what matters would you play the movie, question
+ actually no no i hope when actress would you want to play you in a movie with emma watson and will be amazing i tripped over a lot of it how do you deal with the haters find happiness is that i was looking drain give me a secured member they twenty thousand one of one hundred, question
+ if it's considered growth and it can be considered failure what is your message to all the money was there watching this video don't just hope and pray for james worked for them on i'm gonna ask next question to the special guests right here is your mother all lily's mom paid your first impression of your daughter back on your super bowl rings seen yes even though it by myself and if you and you too for a day what would you do all the whole banquet may titles and thumbnails what are your favorite comments to receive full and that's a slimy work hard elements, question
+ who wants to social media campaign hashtag role of a few years ago when you start i just one young girls a feeling that only to find one other going up not wanting understand that we're stronger together, question
+ what's most controversial thing you've ever said that will feminist by the controversial, question
+ do i regret all the time i spent writing things out regret if you don't show me a secret talent in this video you do that for me okay okay to see this is a very sharp needle mental that's not the results of which i became of the strings of it's like that in our paternal aunt sara is going on went into my wit streaming intel on, question
+ no need to find me someone can i ask you a question from, question
+ loosing gotta go and i know you like oh no but that's okay i'm gonna throw is what you think about my slow, question
+ what movies so much disagree with me right see you made by, question
+ any of these look familiar, question
+ tell me how i can and thank you so much for fitting is seventy three question interview into your busy schedule without bad alright cool lets do this so what's keeping you busy these days i'm just working on getting ready for grammy's was most exciting thing in life right now, question
+ programming is what are you completely apart of in life right now click bait what is something that recently moved to, question
+ kiss me by sixpence none the richer was the first thing you do when you get an idea for so i record a voice memo myself singing it or i can write it down minutes what's your song writing process, question
+ which one to get along as, question
+ what's the last thing you baked on a gluten free dairy free chocolate cake what one thing do you need to have in your fridge any given time homeless weirdly was wondering is having a child, question
+ taylor what do you think when you google yourself i think, question
+ you should never google yourself again if you had a superpower what would be healing people if you are not a singer will you be doing, question
+ concept is the same as as hooks in songs this is very lovely out here thank you can you show me a really cool or bizarre talent, question
+ oh man yeah they're weird there'll yeah what's something you can do, question
+ what's the best gift you've ever received, question
+ my boyfriend planted a and all of tree in my yard for christmas which one haven't you should break, question
+ what's the prezzie most about people, question
+ what makes you laugh no matter what, question
+ what does creativity mean to, question
+ what's the most adventurous thing you've done, question
+ i think filming the bad blood video is my favorite memory with one accomplishment your most proud of my grammy is was something you've always wanted to try but you to scared to do, question
+ what advice would you give to anyone who wants to become a singer and get a good lawyer any presure rituals, question
+ what's most difficult song to perform on stage and walk, question
+ is the cat there sick are used for you if you were a cat would get along with your cats falling out they were kinda thinking cool how many capri can you name in ten seconds and when i start, question
+ amazing what what's the coolest thing in a certain kindle so much cadillac the coolest thing in this room i think is the fireplace nice if you grid woman's closet hoodie blake lively what's your favorite fashion trend about high waisted stuff, question
+ can you tell me what you be wearing to this year's knockout, question
+ okay so my little cousin julie wants to now what did you wanna do with your life at age five, question
+ knew that my dad was a stock broker but i did not know what a stock broker was yet i walked around telling people i'm going to be a stockbroker nigga what's the one thing you wish you knew it nineteen, question
+ what's something you will not be doing in ten years and, question
+ okay what can you say in another language, question
+ what do you think he would say about the work you've done as a friend artistic director no good enough, question
+ don't tell rob using a woman on a bed on a seat on the train monday this is an absolute them and day and the first question i'd like to ask you is what are you most excited about in life right now well the next guy that may be the culture of the met gala this year, question
+ what should we expect you expect the best, question
+ because i have a giveaway and what are you reading right now, question
+ my cousins and what's the song in your currently obsessed with me all results if you are not running the such a how you spending your time have respect the problems what something you still love to learn chinese was the best film ever made this simple water was the best photographer that feel mesa we favorite flowers honors roses looking for me me the right decision nailed but pleasure bbq okay c major fashion houses in the world which one is it new york or la yamaha less leather or lace leather silver or gold, question
+ gold and it was pretty obvious i think but heels or flats with the question heels heels donatella what excites you most about fashion but it always involve in man was a favorite aspects of your job, question
+ what's one item every woman should have in her wardrobe and federal tax black pants, question
+ can what's your greatest achievement my children how describe your personal style that a person on, question
+ what's most important thing that ever happened in the fashion world technology with the tray that you wish would never ever return the minimum is, question
+ you think one day we're going to be reading your autobiography never know because of the necessity my life and to keep from crying that's some, question
+ who wrote the world what would you make a law, question
+ what do you miss most about johnny is of, question
+ what was your favorite memory with him main bath fenced living at the latest fashions from paris to of our field, question
+ and what way did he inspire, question
+ what's the best advice that he's ever given you, question
+ okay so what's the best gift you've ever received here on that one for my brothers and, question
+ yeah cause me dot so we then in italia that that is evil quality of the two places for thirty to visit audi a hickey so bad because of it so this from his causeless cause in america what's your favorite thing that americans say, question
+ can i have a some of which is also where do you wish in the speakers stop saying incorrectly miss that she is sachin what makes versace unique me for most memorable than such a show nineteen ninety one fishing shoulder all the super mothers singing fatal on the runway, question
+ your hashtag what would you be ashton rooms numbers knows i understand it your brothers news was i in all the work that you do who would you consider to be your muse song without color the wall, question
+ how special changed since you took the mission of the brand, question
+ what's the first reaction when your lady gaga song donatella essay while finally, question
+ oh no that's vs donatella how would you describe yourself, question
+ how one person, question
+ how do you feel you are perceived, question
+ what's the best advice you've ever received in your life because yourself, question
+ what advice would you offer to your sixteen year old self, question
+ how do you react to criticism hand, question
+ what's your vision for the movement in twenty eighteen, question
+ what does it mean to be a woman to, question
+ do you consider yourself a feminist hundred thirty s what does feminism mean to one just say before the of all the progress of the war the train to fix a little bit right, question
+ what's one thing that's going to save humanity system of gelatin and donatello for the last question i have to ask you what fashion advice, question
+ biggie hey hey thanks so much for having me buy a good time for an overwhelming 73 Question Interview I'm free it is alright what's the first thing you thought of this morning that I was starving what's your favorite animal what's your favorite animal that does not exist, question
+ add ask him exactly in everyday tell what happened the night that he passed away is arrested what's the greatest interview question you've ever been asked the greatest I think was, question
+ would you bring on a one-way trip to Mars, question
+ I got it from Beverly Hills where I was obviously Beverly Hills what's your favorite song of all time is made me fall in love with rap music, question
+ I don't have any rituals not getting ready performance rituals maybe just taking off my makeup what's your song, question
+ what's one legendary person you love to have tea with I would love to meet Keith Richards, question
+ easily Gwen Stefani I love her for the rest of your life what would it be, question
+ seriously what's being famous like I think it's a total mess but it's awesome, question
+ what's the craziest rumor you've heard of yourself, question
+ hey cindy here we are in gorgeous now tho thank you so much for this invitation thanks coming when taking something very simple question what's going on these days schools out and ready for summer wasn't a sending you have planned for the summer at we go to the lake for about a month and just go nice has now the left your right now it's heavenly in sierra vista their stuck on a deserted island and you only have one book what are you reading anything by jodi called, question
+ what was that like its printing the best where he said he paid the usual fee for, question
+ what's the thing with feathers something hammer on twelve and every one of my family they think i have a very inappropriate sense of humor at times what's one causing care deeply about, question
+ what's one slang word you wish would just go away for some extra, question
+ oh i like it was can you show me an example of the many can easily two truths and a lot of damning pepper had a dog named paprika and himself, question
+ what's the best location for a photo shoot investigation is and which with warm water first location any beach with cold water that i never gonna get into favorite photo of yourself one in mind for sure it is this man by how many and shop for center pay, question
+ most of the game you print the sign the fairest in the land her what's up with this photo of you sneak yes will this is me as even the garden of eden and that was my first only issue with the snake priscilla's heavy secondly it's not disgusting and thursday it got a little too friendly, question
+ what are three things for anyone to look better in photos from, question
+ which cover of that appeared on is your faith, question
+ my favorite color is my very first of august is sixty richard on a baby cindy in pain what's the point is direction from the photographer they received but once i respected you need to get on a separate the surfer while we high heels and a dress and get answer for shoulders and surf and and not get my hair wet, question
+ keeping it all together for the sickle the book because it's within a sure has been fun it's question number seven due to no actually wasn't that wasn't a question seventy two the last question is kinda personal request but can you show me how cindy crawford drinks pepsi, question
+ why is, question
+ my husband what is one thing in this world that we need to get rid of faith to believe in free will or destiny i believe that free will leaves you to your destiny with one thing you cannot live without my velcro rollers what is the definition of misery, question
+ to tell you how are you did you get your again its good to see you welcome thank you again for american asks me three questions in your store thank you was the first thing you do when you wake up in the morning i check on my kids what the daily ritual i'm up at six a m looking up to the pats that'll be cut question how the bulldog lives in la any pet names your kids i do this i tell you that the most of it was when will you give consistently ignored, question
+ it's dumb paper go in the house was the greatest thing you learn from your kids how to play football in house and how to love unconditionally pick up anything from them i have no idea at eight, question
+ alright let's take out the store what is your favorite color, question
+ sunset orange what's your favorite flavor salt what's your favorite spice, question
+ what's, question
+ what's the secret out, question
+ what's a moon me to cry the hardest, question
+ a store's lovely thank you wasn't there i am for sam i really like this bright pink fluffy dress and hey what's the best sink and you never learned less is more fun the world with one lol you would an act f two mean when when i run the world i'm gonna make and not everybody has to do a little something for them from pick till one thing for the rest of your life what would it be and the kids get dressed in the morning, question
+ sucks because the best tracks we where we need to relax my lawn that john's inside cellphone occurs what are three things you always have in your back by rated hand cream number twenty three make up for at the lip liner and my credit card to toro would you mind putting on another pair of sunglasses i couldn't make a perfect gift for someone, question
+ just one question like to be asked more often would you like a ninety nine was one question you hate being asked why the smile good question why don't you smile and smiling on the inside i feel that i have a responsibility to the fashion community those lesson glasses are great but i'll take anxiety, question
+ and it doesn't it's stuck thanks just not think it was a vacation spot napa valley with the country like to visit i'd love to get kenya to bring one thing from the same thing what would it be funny with one piece of clothing or larger that david hates enough everything in my will to at twenty so clothing and it has water but you hey i really like that song on the deck he he passed a few years ago about what would you ever war what would be the full the net and let that i wore fuse got this must be a leader of beautiful things if you could teach any subject at school what would it be singing a new tune up but i think the torah what's your favorite food, question
+ hot saki sue the day with someone living or dead who would it be, question
+ paris what is your idea of a perfect date, question
+ nice him with my husband to believe alot of her sight at the age of or so what made you fall of a date of death at what age were you the happiest, question
+ is there a type of animal print, question
+ the hunger games steak and he didn't have any super power in the world what would it be i would be up to work out and sleep at the same time, question
+ what are three words to describe london inspiring energetic multi cultural was the one thing everyone should do when in london come to london and pick my stool what do i was about americans the positive energy disability where would you live, question
+ neil how are the kids into the milk to bring back one look from you twenties but it did not have you seen a spice girls films, question
+ to be a pro in any sport what would it be tenants to the star one movie what would it be i started spice let me the and i'm still waiting for my outstanding achievement award, question
+ could you want to write your biography me, question
+ the name be of your autobiography of walking cuz less or phrase will define how you live your life, question
+ to redeem them on figure out what i can do to really help and make a difference forty going to be alone icon and you are mine and my kids from me everywhere what's one thing about you people be surprised to know comedy gold to choose anyone in the world who lives next door to you who would it be, question
+ mr valentino lives next door to me and it doesn't get much better not to do it with one person who paid, question
+ if you acted with around town and it doesn't get much better than that you can give yourself advice at age thirteen what would it be discontinued can drop a school can be fine to do something else with your life what would it be twenty anything else victoria last question, question
+ just had a person run cheaper will be in sioux because we showed like to make a cameo in definitely stranger things with the movie that made you cry from laughter pineapple express was a movie that made you cry from sadness titanic what's your favorite album right now at this moment, question
+ celine dion squares it's that's a surprise and all the other items the rock star many decades would you be easy prints now if you could be any rapper who would you be, question
+ what's the weirdest hidden talent that you're willing to share with us at the moment i can blow spit bubbles in my tongue rights gonna have to put on a performance for this but what's the best impression that you can do impressing cat always he started the impression he said i've been in a lot it's a can you have to make a careful choice stevens start to do an impression installing and it and s suppose to be chris for off and see him another resemblance was uncanny i was it was having worst habit procrastination with your best seven fast tablet is ah i always always come through and the job was the number one fitness tip that you have for everyone watching this it just start slow with the number one piece of advice you have for other young actors looking to break into the business, question
+ practice patience two minutes of patience for me okay google set a timer for two minutes shower and it's starting out of the pressure is on the finishes up okay who's your biggest role model my grandfather what is your favorite part of your job probably the versatility of it after not actor what would your dream job be and why, question
+ i would probably be a chef was the craziest thing that's ever happened on set one time a tackle me see grandma underwear and it was improv so she was expecting it is pretty funny, question
+ to hide all the or sat behind was a shark atlanta for the next question is it true you one swim with while chart, question
+ yes that's not the sugar but did ride the tiger shark bay one and why was pickle you could change your name what would you change your name to cali see of the first job i did a small playing rebranding call at the military everything to books on what song you played more than any other song on guitar center in over your dj name be after zack was the most terrifying thing you've ever done in the sky diving, question
+ not very much so definitely not sharks but writing sure it was pretty scary of bs star in any movie in history what would it be the godfather for one okay last two questions, question
+ what's it like working with seth rogan absolutely incredible seth rogan is amazing can you do your impression of seth rogan just like a different person are walking, question
+ can a person eight he had the best wings ever on may be set to do that it is accurate of animals for, question
+ what's the coolest thing you've ever done ate some worms, question
+ which one are you most proud to have received, question
+ where do you keep your Miss World Crown I didn't get to keep because it was made of solid, question
+ you remember your question from the 2000 competition, question
+ who is the living woman you admire the most, question
+ what's your favorite this your mom cooks and she's going to kill me but my mom can cook, question
+ what's your spirit animal, question
+ surprise a girl don't do the whole chocolates and flowers thing and what's your ideal first date, question
+ what's the worst pick-up line you've ever heard in your entire life oh my god did you just fart cause you blew me away, question
+ what's the most American thing you can say in an American accent, question
+ if you got another tattoo, question
+ is there anything you always traveling, question
+ and who are your style icons, question
+ Hail Mary if you got us Tupac one question what would it be, question
+ don't laugh I'm being sincere can you do your best impression of the opening in the Baywatch theme song, question
+ who's your dream on-screen love interest, question
+ Bond James Bond if you were an actress what would you be doing with your life and be an engineer at NASA, question
+ how many were taking work it, question
+ mario including this one right here approximately how many times that someone made a reference to the basketball player michael jordan is that when i'm doing that right now, question
+ yes for the moment that so sweet wheels outside with with me with that actor in a six is what childhood record straight was a fast speed but you never jetted hundred fifty seven miles far will he go to lax of your best friend, question
+ who's your all time favorite comic book character, question
+ black in use how you describe yourself, question
+ what will, question
+ if not acting what would you be doing with your life cooking a little food in and tell her earning like our accounts of this on the side join apple be here you can you show for the coolest place you've ever been close place, question
+ examples of okay what's the location that you'd love to go to, question
+ amen i'm says tokyo japan night and mains press looking back at your life when was the most nervous you've ever been, question
+ can i have a video game of all time, question
+ carry earning situation just set a form boston of thing but he's a killer your now okay so who's your favorite actress, question
+ meryl streep and what's your favorite performance of hers ever, question
+ for all was on guaranteed to get you dancing alicia myers thank you can show me that dance move there to see there's this are whatever singer, question
+ what, question
+ and i gotta get outta here but what if its nothing but can't think it's these will be incredibly original exciting action packed everything so movie you have seen from oranges, question
+ can you give me directions to follow, question
+ can you describe your mother in three words, question
+ what's, question
+ what do i give up to, question
+ what is the thing with the driver get here, question
+ can you stop why would you do with the buttons exactly, question
+ should i be nervous easier five minute call, question
+ would you like to get something smaller would you like some oil to rub down and what kind of puppy is it are you know that the bringer of light and now give me by just in case, question
+ fuck it and the shear areas you better be ready as his anything questions and won't go check is okay what have you been up to today is the premier of fernand kind and how did you start your day looking there's anybody can while playing a fisher holy with his is my boyfriend my furry dog, question
+ help me i don't know what to do with that but how many coffees do drink everyday like to, question
+ where do, question
+ go to the seventies use our where's home mostly these days in la and this is definitely always mon why seriously will give the holy spirit all i have a present for you you are so kind to will turn on the tree lights and play some holiday music orange holiday station to sure turn on your sister what's mean only goes so nice thank you donovan okay how we can park in the rain in the new year my sister's house, question
+ okay what are your news resolutions no longer using visions okay how to stay motivated, question
+ and how would they describe you like thousand looney tune of the cause are born to bring that educations inner city communities, question
+ also my new how does one prepare voice commons and a girl in you become a thief settlement check here all gina where in the world is the woman dying but i get federal make am i sadly don't cook but i can order me take out thirty if he read that both rooms are as owner she is sweet from what will they so much right when he got here when you like to come on okay facebook when the family are in there artist as hundred only during a nervous, question
+ all the time right now especially when i discover style of the whole thing was was treasured thing that you won't, question
+ what's something you can do but you really really wanna learn shall i wanna juggle knives, question
+ what one person would you want to set a dinner party lisa jesus, question
+ when is there is even, question
+ listen when you start learning you know i'm service professional seven hundred south of via r with anyone in the world who would it be it would be jealous, question
+ what a re co ever saw missing the shower, question
+ which ever musical as a kid, question
+ what's a wrap that you know inside out back to front, question
+ i never should grownup who was the celebrity that you really really admire the most, question
+ and right now who is the celebrity that you really really admire the most, question
+ at what age were you confident, question
+ when is america for enrollment papers, question
+ when were you at a complete loss of words because you are so star struck with someone, question
+ who are to jim opponents allowed to see in the rain lol triple g vs may weather, question
+ who is want to fight, question
+ what dreams may come and how did you go about preparing to portray free calling, question
+ is it dying to go to, question
+ what is the pay is gonna ask you seventy three questions for you got your big cover shoot is are we was excited about these days perspective vacation with your favorite holiday christmas favorite season for a reason hobby you've picked up needle point where it won't go on a perfect road trip every it feel when was the best activity went home on a rainy day cuddle you to switch lives with someone for a day who would it be, question
+ oprah winfrey to get coffee with someone from the past who would be tense shopping but probably because of a, question
+ what's the best thing that happen this year on the twenty and yes that was the best thing happen this year i had a joint party with my fam also to forty, question
+ every go with the new years resolution for twenty fifteen all i'm looking to making extra solutions because i usually for a second week in on what's i self let anyone crouching here watching you stretch where you can't see continues to getting up and doing some balance for my mother she very cool what's your favorite exercise yoga best way to decompress yeah that was the last book you read on peaceful parent happy kid was a book you read because everyone else in the world was reading, question
+ yeah she's what is your spirit animal of, question
+ what the, question
+ what song would you probably caught dancing alone to, question
+ dancing in heaven from girls just wanna have fun if you could work the runway life what song would it be, question
+ my fiance made a little but my daughter space on it so when i travel to cuddle with was the best gift ever given, question
+ what was casting catch me if you can as its parts was a fashion icon, question
+ twenty what did you from where this, question
+ who is your date your brother chris into, question
+ and if you wanna see these kids bust out some sick moves, question
+ why do birds fly, questions
+ any of these look familiar hd, question
+ can you say something in six languages, question
+ what makes south carolina barbecue different it's a little less racism alabama barbecue was most delicious place in the world tokyo, question
+ what's the favor taco of all time like ricky's fish tacos and many other titles please only choose one with the food chain that you paid, question
+ call people i don't care with the poodles those was the best fast food restaurant she claimed was nice controversy so hard brake if you or any type of pasta what type of pasta would you be lasagna, question
+ what's your spirit animal, question
+ what a source who is your ultimate style icon right now much less than what fashion trench we most definitely bring back, question
+ what were the subtitles the, question
+ what is your best in your pick up line does is going whole foods on a figure of anything who's your childhood crush elaine bennis give a director now he's on phone with the most overused not this guy that, question
+ can you rank on us albums in order of best to worst that i have top left front was a tennessee then and go to thailand he uses and yo pablo then kindle graduation then college about the latest rezoning out so hard this favorite verse from any mc ever was my favor not the best thing on my favorite is either really silly gmx first raise lists all his ex girlfriends please hear some of that, question
+ what's the last book you didn't finish, question
+ who is your favorite video game character jackson will come back to, question
+ famous person would you want to play you in a movie hopefully i get the part but i feel like the way things are going to try to get the teller reason and that doesn't really popular with the busy, question
+ what's the best thing ever what's your favorite season, question
+ what's your favorite plot twist, question
+ is that my surprise I asked a question blank, question
+ do you like cupcakes usually mae cupcakes, question
+ what's your favorite dessert, question
+ what's the coolest thing about Canada Jeff Pat and Terry just letting you know there are cherries in the fridge but what's your favorite food, question
+ what's your least favorite food what's your favorite condiment, question
+ what TV unless icing counts is condiment, question
+ what would you eat, question
+ what do you see, question
+ what brings the dies i am going to make some coffee okay who was the person you love to have coffee with out what that he's dead so that's possible with historical figure with a coffee with rose bowl, question
+ how do you like your coffee i like chocolate so in the trash, question
+ what do you usually order at starbucks, question
+ seven questions from now a man will appear through that window and ask you something about homemaking is that okay with you that's creepy but okay who's the last person you texted on my sister the last person tweeted, question
+ what have you had anything besides cupcakes delivered my freedom after i murder that man for stealing my cupcakes, question
+ france last the visited canada country was to visit japan what was your first pet a dog was your first pets name for five after the freeway feels dizzy and remy from from accessing kittens or puppies puppies what's your spirit animal mickey mouse or for that was question sixty three, question
+ ask if you received on a video of all the people that made a impact on my life for my birthday from last fifteen different hulk awe thank you so much and one last question okay did you forget something, question
+ can i have three guesses why don't you tell me you all we what the hell was that the yankees pigeons officer you was like a worm was suppose to me what you think of me when you invite me because, question
+ where's your, question
+ she's run away he was all replaced with the immigration run away who are abusive dad about the bride happy teller apart from all the other women, question
+ to the minister when the colored boy why just the color this in the middle of the wonderful buzzwords piece where would be adjusted right there, question
+ would you believe sixteen years groups who feel abortion is yours to go sorry i didn't do it what's going on, question
+ we have a room for three how many engineer meet you mean three people think mean really like i can hear three dogs that look like this what you thought near, question
+ have you seen my heart, question
+ don't question my wife things what we gonna what determines when system is pretty weather jorgensen look like oh we miss phillips, question
+ are you mr. Phillips, question
+ figured or not that's what should be points that thousand be too many, question
+ can you add four is, question
+ you think you can just come in here and scare me you don't think I've seen Trevor Thompson you come in. Bar don't you want a real man, question
+ would you believe that she's about five foot ten where to go to talk about mr kitty does everyone in this town nor can you get a gun second after, question
+ when you come from a genuine to talk to a lady you want a kiss me who doesn't hooded figure big slide these losses love cushions one of the all night lol have you heard that sue her, question
+ oh you know the drinking age is forty seven here is a matter that i'm canadian to tell you ever heard of a town called moose jaw saskatchewan is right beside left new but would you be interested in hearing i've got a canadian that is, question
+ what's your sign, question
+ why do you ask you where they just went on your shoulder don't you know that's good luck lol it is it's don't you read books you wanna dance yeah like well my son to ride for cheating an honor to call and for saying left new that i gotta go love new canvas of a place of, question
+ i need to get the answer right away are at does anyone ever call you by your real name julian, question
+ from this point on should i call you janice if you want to reduce in a cage when he was most of living in california for time and, question
+ i'm really gonna sleep on planes and what's your schedule like these days, question
+ you really wanna know which this is scary but say okay zero, question
+ how many people watched your most recent snapshot the, question
+ go to you know just my family question was about the worst color where am i like wearing bright colors they don't really have a least favorite thing ever cut your own hair cats actually before my first the yes campaign i cut my bains and that's why we're gonna we're stuck on it switches between the animals switch family never get tired of being able to wear glasses and everyone what should you wish to never come back, question
+ can you rank your top ten favorite taylor swift songs i view my list of books hopeless with me how can be ready got, question
+ any specific order to john stays in said forever and always how you get the girl clean this long beginning and won't move tim mcgraw and, question
+ how many kobe jerseys do you currently have in your closet, question
+ is your favorite place you've visited, question
+ call the your superhero with a superpower what would your super power be, question
